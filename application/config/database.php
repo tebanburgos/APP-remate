@@ -50,7 +50,7 @@ $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
 $db['default']['username'] = 'imacomre_root';
-$db['default']['password'] = 'F0(sZSRR)gdX';
+$db['default']['password'] = 'CONFIDENCIAL';
 $db['default']['database'] = 'imacomre_sys';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
