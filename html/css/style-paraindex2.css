@@ -1,0 +1,230 @@
+#navbar{
+    margin-top: 14px;
+}
+.navbar{
+    background-color: #1b2d6b !important;
+    min-height: 80px;
+}
+
+nav .nav li a{
+    color: #fff !important;
+    font-weight: 600;
+}
+
+nav .nav > li > a:hover, nav .nav > li > a:focus{
+    border-bottom: 2px solid #ede42d !important;
+    padding-bottom: 6px !important;
+    background-color: transparent !important;
+}
+
+nav .navbar-toggle{
+    background-color: #f28916;
+}
+nav .navbar-toggle .icon-bar{
+    background-color: #fff;
+}
+
+/** NAVEGADOR IZQ **/
+#leftnav ul.nav{
+    background-color: rgb(243, 243, 243);
+    border: 1px solid #DEDEDE;
+}
+#leftnav ul.nav > li > a{
+    font-weight: 700;
+    font-size: 12px;
+}
+
+#leftnav ul.nav > li > a:hover{
+    background-color: rgb(230, 230, 230);
+    border-left: 2px solid #1b2d6b !important;
+}
+
+/** **/
+.categorias{
+    font-weight: 700;
+    background-color: #DADADA;
+    padding: 6px 0px 6px 13px;
+    color: #545454;
+}
+.btn-group button.btn{
+    font-size: 11px;
+    border: none !Important;
+    background-color: #f1f1f1;
+    text-align: left;
+}
+.btn-group button.btn:hover{
+    background-color: #DADADA;
+}
+
+
+/** FICHA HOME REMATE **/
+.lugar{
+    font-size: 11px;
+    font-weight: 400;
+}
+.lugar2{
+    font-size: 11px;
+}
+.fecha2{
+    font-size: 11px;
+}
+.lugar3{
+    font-size: 11px;
+    color: #BFBFBF;
+}
+.fecha3{
+    font-size: 11px;
+    color: #C3974A;
+}
+.titlelotes{
+    font-size: 12px;
+    font-weight: 600; 
+    color: #1b2d6b;
+}
+.sublotes{
+    font-size: 10px;
+    font-weight: 400;
+}
+.titlelotes2{
+    font-size: 12px;
+    font-weight: 600; 
+    color: #ede42d;
+    text-align: center;
+}
+.sublotes2{
+    font-size: 10px;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+}
+.titlelotes3{
+    font-size: 12px;
+    font-weight: 600; 
+    color: #ede42d;
+    margin-top: 4px;
+    padding: 0px 6px;
+}
+.sublotes3{
+    font-size: 10px;
+    font-weight: 400;
+    color: #efefef;
+    margin: 2px 0px 4px 0px;
+    padding: 0px 6px;
+}
+
+.disponible{
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    padding: 4px;
+    font-size: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-top: 6px;
+}
+.disponible2{
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    padding: 4px 0px 4px 8px;
+    font-size: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-top: 0px;
+    text-align: center;
+}
+.disponible3{
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    padding: 4px 0px 4px 8px;
+    font-size: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-top: 0px;
+}
+
+.finalizado{
+    color: #a94442;
+    background-color: #DCDCDC;
+    border-color: #ebccd1;
+    padding: 4px;
+    font-size: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-top: 6px;
+}
+
+.rematehome{
+    
+}
+.remateimg{
+    background: url(../images/camion0.jpg) top center no-repeat;
+    height: 207px;
+    width: 207px;
+}
+.rematetxt{
+    background-color: rgba(15, 19, 39, 0.7);
+    height: 74px;
+    padding: 4px 7px;
+}
+.espacio{
+    height: 133px;
+}
+.info{
+    font-size: 11px;
+    padding: 2px 4px 2px 4px;
+    background-color: #ECECEC;
+    color: #1b2d6b;
+    border-top: 2px solid #DADADA;
+    text-align: center;
+}
+
+.info2{
+    background-color: #1F2242;
+    padding: 0px;
+}
+.info2img{
+    padding: 0px;
+}
+.infotop{
+    background-color: #101833;
+    padding: 4px 6px;
+}
+
+.thumbnail{
+    padding: 0px !important;
+}
+
+/** TABS HOME**/
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus{
+    background-color: #1b2d6b;
+    color: #fff;
+    font-weight: 700;
+    border: 1px solid #1b2d6b;
+}
+
+#home .nav-tabs{
+    border-bottom: 2px solid #1b2d6b;
+}
+
+#home .nav-tabs > li > a:hover{
+    border: 1px solid #ccc;
+}
+
+#home .nav > li > a{
+    padding: 4px 18px;
+}
+
+
+/** PAGINADOR **/
+.pagination > li > a, .pagination > li > span{
+    background-color: #1b2d6b;
+    border: 1px solid #323F6B;
+    color: #fff;
+}
+.pagination > li > a:hover{
+    background-color: rgb(24, 37, 82);
+    border: 1px solid #323F6B;
+    color: #fff;
+}

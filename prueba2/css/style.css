@@ -1,0 +1,598 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+#navbar{
+    margin-top: 14px;
+}
+.navbar{
+    background-color: #1b2d6b !important;
+    min-height: 80px;
+}
+
+nav .nav li a{
+    color: #fff !important;
+    font-weight: 600;
+}
+
+nav .nav > li > a:hover, nav .nav > li > a:focus{
+    border-bottom: 2px solid #ede42d !important;
+    padding-bottom: 6px !important;
+    background-color: transparent !important;
+}
+
+nav .navbar-toggle{
+    background-color: #f28916;
+}
+nav .navbar-toggle .icon-bar{
+    background-color: #fff;
+}
+
+/** NAVEGADOR IZQ **/
+.categorias{
+    font-weight: 700;
+    background-color: #1b2d6b;
+    padding: 0px 0px 10px 0px;
+    color: #fff;
+    border-radius: 4px 4px 0px 0px;
+    -moz-border-radius: 4px 4px 0px 0px;
+    -webkit-border-radius: 4px 4px 0px 0px; 
+}
+
+#leftnav ul.nav{
+    background-color: rgb(243, 243, 243);
+    border: 1px solid #DEDEDE;
+}
+#leftnav ul.nav > li > a{
+    font-weight: 700;
+    font-size: 12px;
+    padding: 12px 9px;
+}
+
+#leftnav ul.nav > li > a:hover{
+    background-color: rgb(230, 230, 230);
+    border-left: 2px solid #1b2d6b !important;
+} 
+
+.categ{
+    padding: 8px 2px 8px 8px !important; 
+}
+.categ a{
+    color: #1b2d6b;
+    font-size: 13px;
+}
+
+.thumbnail{
+    margin-bottom: 6px !important;
+}
+.thumbnail .caption{
+    padding: 4px;
+}
+
+/** FICHA HOME REMATE **/
+.lugar{
+    font-size: 11px;
+    font-weight: 400;
+}
+.lugar2{
+    font-size: 11px;
+}
+.fecha2{
+    font-size: 11px;
+}
+.lugar3{
+    font-size: 9px;
+    color: #DEDEDE;
+}
+.lugar4{
+    font-size: 9px;
+    color: #6D6D6D;
+}
+.fecha4{
+    font-size: 11px;
+    color: #C7740C;
+}
+.titlelotes{
+    font-size: 13px;
+    font-weight: 600; 
+    color: #1b2d6b;
+    line-height: 14px;
+}
+.sublotes{
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 13px;
+}
+.titlelotes2{
+    font-size: 12px;
+    font-weight: 600; 
+    color: #ede42d;
+    text-align: center;
+}
+.sublotes2{
+    font-size: 10px;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+}
+.titlelotes3{
+    font-size: 12px;
+    font-weight: 600; 
+    color: #ede42d;
+    padding: 2px 6px 0px 6px;
+    line-height: 14px;
+}
+
+.disponible{
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    padding: 4px;
+    font-size: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.disponible2{
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    padding: 4px 0px 4px 8px;
+    font-size: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-top: 0px;
+    text-align: center;
+    
+}
+
+.finalizado{
+    color: #a94442;
+    background-color: #DCDCDC;
+    border-color: #ebccd1;
+    padding: 4px;
+    font-size: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.finalizado3{
+    color: #771715;
+    background-color: #D86666;
+    border-color: #ebccd1;
+    padding: 3px 0px 3px 8px;
+    font-size: 9px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.rematehome{
+    
+}
+.remateimg{
+    background: url(../images/camion0.jpg) top center no-repeat;
+    height: 207px;
+    width: 207px;
+}
+.rematetxt{
+    background-color: rgba(15, 19, 39, 0.7);
+    height: 74px;
+    padding: 4px 7px;
+}
+.espacio{
+    height: 133px;
+}
+.info{
+    font-size: 11px;
+    padding: 2px 4px 2px 4px;
+    background-color: #ECECEC;
+    color: #1b2d6b;
+    border-top: 2px solid #DADADA;
+    text-align: center;
+}
+
+.info2{
+    /**background-color: #1F2242;**/
+    padding: 0px;
+}
+.info2img{
+    padding: 0px;
+}
+.infotop{
+    background-color: #213161;
+    padding: 4px 6px;
+    border-radius: 4px 4px 0px 0px;
+    -moz-border-radius: 4px 4px 0px 0px;
+    -webkit-border-radius: 4px 4px 0px 0px;
+    color: #efedb8;
+}
+.infotop2{
+    background-color: #EFEFEF;
+    padding: 0px 4px;
+}
+
+.labelfecha{
+    background-color: #213161;
+    color: #EFEDB8;
+    padding: 2px 4px;
+    font-weight: 400;
+    font-size: 12px;
+    border-radius: 4px 4px 0px 0px;
+    -moz-border-radius: 4px 4px 0px 0px;
+    -webkit-border-radius: 4px 4px 0px 0px; 
+}
+.labellugar{
+    background-color: #F28916;
+    color: #213161; 
+    padding: 2px 4px;
+    font-weight: 400;
+    font-size: 11px;
+}
+
+.thumbnail{
+    padding: 0px !important;
+}
+.thumbnail .caption{
+    background-color: #f1f1f1;
+}
+
+/** TABS HOME**/
+.nav-tabs > li > a{
+    border: 1px solid rgb(222, 222, 222); 
+    background-color: #f2f2f2;
+}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus{
+    background-color: #1b2d6b;
+    color: #fff;
+    font-weight: 700;
+    border: 1px solid #1b2d6b;
+}
+
+#home .nav-tabs{
+    border-bottom: 2px solid #1b2d6b;
+}
+
+#home .nav-tabs > li > a:hover{
+    border: 1px solid #ccc;
+}
+
+#home .nav > li > a{
+    padding: 4px 18px;
+}
+
+/** FILTRO INTERNO CATEGORIA **/
+#subcat span.label.label-default.subcattitle{
+    display: block;
+    text-align: left;
+}
+
+/** FICHA LOTE **/
+.valor{
+    font-size: 12px;
+    color: #EA2727;
+    font-weight: 700;
+}
+.lote{
+    color: #f1f1f1;
+    font-size: 11px;
+    font-weight: 700;
+}
+.infolote{
+    background-color: #f1f1f1;
+    color: #1b2d6b;
+    padding: 2px 0px !important;
+}
+.infobottom{
+    background-color: #EFEDB8;
+    color: #213161;
+    padding: 2px 4px;
+    font-weight: 400;
+    font-size: 12px;
+    border-top: 1px solid #CECECE;
+}
+
+.infobottom2{
+    background-color: #f1f1f1;
+    color: #213161;
+    padding: 2px 4px;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.fecha3{
+    font-size: 12px;
+    color: #E0A135;
+}
+
+.sublotes3{
+    font-size: 11px;
+    font-weight: 400;
+    color: #1b2d6b;
+    margin: 2px 0px 4px 0px;
+    padding: 0px 6px;
+    line-height: 13px;
+}
+
+.disponible3{
+    color: #115F12;
+    background-color: #74D84A;
+    border-color: #d6e9c6;
+    padding: 3px 0px 3px 16px;
+    font-size: 9px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-top: 0px;
+}
+
+/** FICHA ESPECÍFICA **/
+.infoficha{
+    padding: 4px 6px;
+}
+.ofertamayor{
+    color: #4BAD22;
+    font-size: 16px;
+    border-top: 1px solid #919294;
+    padding-top: 4px;
+    margin-top: 4px;
+}
+.ganando{
+    text-transform: uppercase;
+    color: #f28916;
+}
+
+.alertas{
+    font-size: 12px;
+    padding: 8px !important;
+}
+.win{
+    background-color: #4BAD22;
+    color: #fff;
+    font-size: 11px;
+}
+.lastoffer{
+    background-color: #337AB7;
+    color: #fff;
+    font-size: 11px;
+}
+.wait{
+    background-color: #6B8054;
+    color: #fff;
+    font-size: 11px;
+}
+.inforemate{
+    background-color: #612A21;
+    padding: 4px 6px;
+    border-radius: 4px 4px 0px 0px;
+    -moz-border-radius: 4px 4px 0px 0px;
+    -webkit-border-radius: 4px 4px 0px 0px;
+    color: #efedb8;
+}
+.infoficharemate{
+    background-color: rgb(245, 234, 206);
+    color: #1b2d6b;
+    padding: 2px 0px !important;
+}
+#ficha #leftnav{
+    border-right: 2px solid rgba(245, 138, 22, 0.36);
+}
+
+.wellazul{
+    background-color: #213161;
+    color: #fff;
+    border: 1px solid #213161;
+}
+
+.infobajoficha{
+    background-color: #EFEDB8;
+    color: #213161;
+    padding: 4px 4px;
+    font-weight: 400;
+    font-size: 14px;
+    border-top: 1px solid #CECECE;
+}
+.titleblue{
+    background-color: #1b2d6b;
+    color: #fff;
+    padding: 1px 6px;
+}
+
+/** HABILITACIÓN **/
+.contrato2{
+    font-size: 14px;
+}
+.infouser{
+    font-size: 12px;
+}
+
+/** Registro **/
+.titlereg{
+    padding: 4px 10px 4px 10px;
+    margin-bottom: 8px;
+}
+.bg-primary{
+    background-color: #1b2d6b !important;
+}
+.contrato{
+    font-size: 11px;
+}
+.info1img{
+    padding-left: 0px;
+}
+.btninfoficha{
+    font-size: 11px;
+}
+
+/** MI CUENTA **/
+.mc1{
+    background-color: #142435;
+    color: #fff;
+    font-size: 18px;
+    padding: 8px;
+    min-height: 186px;
+}
+.mc2{
+    background-color: #27736B;
+    color: #fff;
+    font-size: 18px;
+    padding: 8px;
+    min-height: 186px;
+}
+.mc3{
+    background-color: #69BF8E;
+    color: #fff;
+    font-size: 18px;
+    padding: 8px;
+    min-height: 186px;
+}
+.cuentasubtext{
+    font-size: 16px;
+    color: #f3f3f3;
+    font-weight: 300;
+    margin-top: 10px;
+    
+}
+.linkscuenta1 a{
+    font-size: 14px;
+    line-height: 1.9em;
+    color: #EEE52E;
+    display: block;
+}
+
+.linkscuenta2 a{
+    font-size: 14px;
+    line-height: 1.9em;
+    color: #D9DE91;
+    display: block;
+}
+
+.linkscuenta3 a{
+    font-size: 14px;
+    line-height: 1.9em;
+    color: #18234A;
+    display: block;
+}
+
+
+
+/** PAGINADOR **/
+.pagination > li > a, .pagination > li > span{
+    background-color: #1b2d6b;
+    border: 1px solid #323F6B;
+    color: #fff;
+}
+.pagination > li > a:hover{
+    background-color: rgb(24, 37, 82);
+    border: 1px solid #323F6B;
+    color: #fff;
+}
+
+/** FOOTER **/
+#footer{
+    background-color: #252525;
+    /**position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;**/
+}
+#footer a{
+    color: #EFEDB8;    
+}
+.copyright{
+    padding: 6px 10px;
+    margin: 10px;
+    color: #EFEDB8;
+}
+
+
+@media (min-width: 992px) { 
+    .infotop{
+        height: 24px;
+    }
+    
+    .inforemate{
+        height: 24px;
+    }
+
+}
+@media (min-width: @screen-sm-min) {
+    
+    .mc1{
+        min-height: auto;
+    }
+    .mc2{
+        min-height: auto;
+    }
+    .mc3{
+        min-height: auto;
+    }
+    
+
+}
+
+
+
+/*ih*/
+.labellugar {background-color: #E0E0E0 !important;}
+.labelfecha {color: #FFFFFF !important;}
+.navbar {background-color: #1B264E !important;}
+.thumbnail {margin-bottom: 30px !important;}
+.copyright {color: #FFFFFF !important;}
+#footer {background-color: #B1B1B1 !important;}
+.titlelotes {color: #1F1F1F !important;font-size: 14px !important;}
+.disponible3 {color: #FFFFFF !important;background-color: #0EA04B !important;}
+.labellugar {color: #232323 !important;}
+.label-success {background-color: #0EA04B !important;}
+.nav-tabs > li.active > a {background-color: #0EA04B !important;border: 1px solid #0EA04B !important;}
+.categorias {background-color: #1B264E !important;}
+.container {width: 100% !important;}
+.navbar-nav {float: right !important;}
+.categ a {color: #1F1F1F !important;}
+.finalizado3 {color: #FFFFFF !important;background-color: #E04040 !important;border-color: #E04040 !important;}
+
+/*footer*/
+#footer {width: 100% !important;position: fixed !important;bottom: 0px !important;}
+#footer a {color: #FFFFFF !important;}
+
+/*sidebar-right*/
+.container-rightnav {border: 1px solid #DEDEDE;padding: 20px;background: #F3F3F3;}
+.destacados {background-color: #F48916 !important;font-size: 17px !important;    padding: 8px 0px 8px 0px !important;color:#fff !important;    border-radius: 6px 6px 0px 0px !important;font-weight: 700 !important;}
+#rightnav #row-box {padding-top: 20px !important;margin: 0px !important;margin-top: 20px; !important;background: #f7f7f7 !important;border: 1px solid #DEDEDE !important;padding-bottom: 20px !important;}
+#rightnav .labelfecha {background-color: #F48916 !important;}
+
+/*lotes-totales*/
+.lotes-totales {text-align: center; padding-top: 0px;padding-bottom: 0px;font-size: 17px;background: #B1B1B1;color: #fff;margin-bottom: 0px;}
+
+/*sidebar-left*/
+ul.nav.nav-sidebar {padding: 20px !important;}
+.categorias {font-size: 17px !important;    padding: 8px 0px 8px 0px !important;}
+#leftnav .nav-tabs {    border-radius: 6px 6px 0px 0px !important;}
+
+/*box-remate-index*/
+.thumbnail .caption {height: 80px !important;}
+.thumbnail {border-radius: 6px 6px 0px 0px !important;}
+.labelfecha {text-align: center !important;font-size: 14px !important;}
+
+/*remate-disponible*/
+#remate-disponible .icono-subasta {width: 20%;float: left;background: #0EA04B;padding-top: 2px;padding-bottom: 1px;padding-left: 4px;text-align: center;color: #fff;font-size: 14px;}
+#remate-disponible .texto-subasta {width: 80%;float: left;background: #DDD;padding-top: 4px;padding-bottom: 4px;padding-left: 4px;}
+#remate-disponible .texto-subasta p {font-size: 11px;text-transform: uppercase;font-weight: 700;color: #0EA04B;margin-bottom: 0px;}
+
+/*remate-finalizado*/
+#remate-finalizado .icono-subasta {width: 20%;float: left;background: #E04040;padding-top: 2px;padding-bottom: 1px;padding-left: 4px;text-align: center;color: #fff;font-size: 14px;}
+#remate-finalizado .texto-subasta {width: 80%;float: left;background: #DDD;padding-top: 4px;padding-bottom: 4px;padding-left: 4px;}
+#remate-finalizado .texto-subasta p {font-size: 11px;text-transform: uppercase;font-weight: 700;color: #E04040;margin-bottom: 0px;}
+
+/*botones*/
+#botom-disponible {background: #0EA04B !important;border: 1px solid #0EA04B !important;color: #fff !important;font-weight: 700 !important;}
+#botom-finalizado {background: #E04040  !important;border: 1px solid #E04040 !important;color: #fff !important;font-weight: 700 !important;}
+.nav-tabs > li > a  {background-color: #0EA04B !important;border: 1px solid #0EA04B !important;color: #fff !important;font-weight: 700 !important;}
+
+/*paginador*/
+.pagination > li > a, .pagination > li > span {background-color: #F5F5F5 !important; border: 1px solid #DDDDDD !important;color: #A2A2A2 !important;}
+.pagination > li > a:hover, .pagination > li > span:hover {background-color: #A2A2A2 !important; border: 1px solid #DDDDDD !important;color: #ffffff !important;}
+#paginador {padding-bottom: 50px;}
+
+/*row*/
+#row-box {padding-top: 20px;}
+
+/*menu*/
+nav .nav > li > a:hover, nav .nav > li > a:focus {border-bottom: 2px solid #1B264E !important;}
+

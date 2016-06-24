@@ -1,0 +1,411 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <link rel="icon" href="../../favicon.ico">
+
+        <title>Publiremate</title>
+
+        <!-- Bootstrap core CSS -->
+        <link href="css/bootstrap.css" rel="stylesheet">
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300,400italic,800' rel='stylesheet' type='text/css'>
+
+        <!-- Custom styles for this template -->
+        <link href="css/style.css" rel="stylesheet">
+
+
+        <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+        <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+        <script src="js/ie-emulation-modes-warning.js"></script>
+
+        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
+
+    <body>
+
+        <nav class="navbar">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="index.html"><img src="images/logo.png"></a>
+                </div>
+                <div id="navbar" class="collapse navbar-collapse">
+					<ul class="nav navbar-right">
+						<li><a href="login.html"><i class="fa fa-sign-in"></i> Login</a></li>
+					</ul>
+                    <form class="navbar-form navbar-right">
+                        <input type="text" class="form-control" placeholder="Buscar...">
+                    </form>
+                    <ul class="nav navbar-nav">
+                       <li class="active"><a href="index.html"><i class="fa fa-home"></i> Inicio</a></li>
+                        <li><a href="#" data-toggle="modal" data-target=".qv_registro_individual"><i class="fa fa-check-square"></i> ¡Quiero Vender!</a></li>
+                        <li><a href="micuenta.html"><i class="fa fa-user"></i> Mi Cuenta</a></li>
+                        <li><a href="#" data-toggle="modal" data-target=".bs-example-modal-lg"><i class="fa fa-file-text-o"></i> Registro</a></li>
+                        <li><a href="ayuda.html"><i class="fa fa-life-ring"></i> Ayuda</a></li>
+                    </ul>
+                </div><!--/.nav-collapse -->
+            </div>
+        </nav>
+        
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    <ol class="breadcrumb">
+                        <li class="active"><a href="index.html">Inicio</a></li>
+                        <li><a href="categoria01.html">Autos y Motos</a></li>
+						<li><a href="#">2° Licitación Minera Los Pelambres</a></li>
+                    </ol>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2" id="leftnav">
+                    <ul class="nav nav-tabs" role="tablist">
+						<div class="row">
+						<div class="col-md-6" align="left">
+							<div class="categorias" align="center"><small><i class="fa fa-tags"></i> CATEGORÍAS</small></div>
+						</div>
+						
+						<div class="col-md-6">
+							<p align="center">Lotes</p>
+							<p align="center"><strong>1</strong></p>
+						</div>
+						</div>
+                    </ul>
+                    <ul class="nav nav-sidebar">
+                        <table>                        
+                            <tr>
+                                <li class="active">                            
+                                    <td class="col-md-11 categ"><a href="categoria01.html">Autos y Motos</a></td>
+                                    <td class="col-md-1"><span class="label label-success">6</span></td>                            
+                                </li> 
+                            </tr>
+                        </table>                        
+                        
+                    </ul>
+                    <br>
+                   
+                    <br>
+                    <ul class="nav nav-sidebar" id="subcat">
+                        <span class="label label-default subcattitle"><i class="fa fa-angle-double-right"></i> TIPO</span>
+                        <table>
+                            <tr>
+                                <li>
+                                    <td class="col-md-11">
+                                        <div class="checkbox">
+                                        <label>
+                                            <input type="checkbox" value="">
+                                            <b>Todos</b>
+                                        </label>
+                                    </div>
+                                    </td>
+                                    <td class="col-md-1"><span class="label label-success">6</span></td>
+                                </li>
+                            </tr>
+                            <tr>
+                                <li>
+                                    <td class="col-md-11">
+                                        <div class="checkbox">
+                                        <label>
+                                            <input type="checkbox" value="">
+                                            Pick Ups
+                                        </label>
+                                    </div>
+                                    </td>
+                                    <td class="col-md-1"><span class="label label-success">6</span></td>
+                                </li>
+                            </tr>
+                            <tr>
+                                <li>
+                                    <td class="col-md-11 ">
+                                        <div class="checkbox disabled">
+                                            <label>
+                                                <input type="checkbox" value="" disabled>
+                                                SUV
+                                            </label>
+                                        </div>
+                                    </td>
+                                    <td class="col-md-1"><span class="label label-default">0</span></td>
+                                </li>
+                            </tr>
+                            <tr>
+                                <li>
+                                    <td class="col-md-11 ">
+                                        <div class="checkbox disabled">
+                                            <label>
+                                                <input type="checkbox" value="" disabled>
+                                                Hatchback
+                                            </label>
+                                        </div>
+                                    </td>
+                                    <td class="col-md-1"><span class="label label-default">0</span></td>
+                                </li>
+                            </tr>
+                        </table>                        
+                        
+                    </ul>
+                    <br>
+                    <ul class="nav nav-sidebar" id="subcat">
+                        <span class="label label-default subcattitle"><i class="fa fa-angle-double-right"></i> MODELO</span>
+                        <table>
+                            <tr>
+                                <li>
+                                    <td class="col-md-11">
+                                        <div class="checkbox">
+                                        <label>
+                                            <input type="checkbox" value="">
+                                            <b>Todos</b>
+                                        </label>
+                                    </div>
+                                    </td>
+                                    <td class="col-md-1"><span class="label label-success">6</span></td>
+                                </li>
+                            </tr>
+                            <tr>
+                                <li>
+                                    <td class="col-md-11 ">
+                                        <div class="checkbox disabled">
+                                            <label>
+                                                <input type="checkbox" value="" disabled>
+                                                Audi
+                                            </label>
+                                        </div>
+                                    </td>
+                                    <td class="col-md-1"><span class="label label-success">1</span></td>
+                                </li>
+                            </tr>
+                            <tr>
+                                <li>
+                                    <td class="col-md-11 ">
+                                        <div class="checkbox disabled">
+                                            <label>
+                                                <input type="checkbox" value="" disabled>
+                                                Jeep
+                                            </label>
+                                        </div>
+                                    </td>
+                                    <td class="col-md-1"><span class="label label-success">1</span></td>
+                                </li>
+                            </tr>
+                            <tr>
+                                <li>
+                                    <td class="col-md-11 ">
+                                        <div class="checkbox disabled">
+                                            <label>
+                                                <input type="checkbox" value="" disabled>
+                                                Hyundai
+                                            </label>
+                                        </div>
+                                    </td>
+                                    <td class="col-md-1"><span class="label label-success">1</span></td>
+                                </li>
+                            </tr>
+                            <tr>
+                                <li>
+                                    <td class="col-md-11 ">
+                                        <div class="checkbox disabled">
+                                            <label>
+                                                <input type="checkbox" value="" disabled>
+                                                Suzuki
+                                            </label>
+                                        </div>
+                                    </td>
+                                    <td class="col-md-1"><span class="label label-success">1</span></td>
+                                </li>
+                            </tr>
+							 <tr>
+                                <li>
+                                    <td class="col-md-11 ">
+                                        <div class="checkbox disabled">
+                                            <label>
+                                                <input type="checkbox" value="" disabled>
+                                                Yamaha
+                                            </label>
+                                        </div>
+                                    </td>
+                                    <td class="col-md-1"><span class="label label-success">1</span></td>
+                                </li>
+                            </tr>
+							 <tr>
+                                <li>
+                                    <td class="col-md-11 ">
+                                        <div class="checkbox disabled">
+                                            <label>
+                                                <input type="checkbox" value="" disabled>
+                                                Chevrolet
+                                            </label>
+                                        </div>
+                                    </td>
+                                    <td class="col-md-1"><span class="label label-success">1</span></td>
+                                </li>
+                            </tr>
+                        </table>                        
+                        
+                    </ul>
+                </div>
+                <div class="col-md-10">
+                    
+                   <div class="row">
+                        <div class="col-sm-6 col-md-6">
+                            <div class="col-sm-6 col-md-4 info2img">
+                                <a href="ficha21.html"><img src="images/mazda2.jpg" class="img-responsive" alt="..."></a>
+                            </div> 
+
+                            <div class="col-sm-6 col-md-8 info2">
+                                <div class="infotop">
+                                    <div class="col-sm-3 col-md-4">
+                                        <div class="lote"><i class="fa fa-angle-right"></i> LOTE 001</div>
+                                    </div>
+                                    <div class="col-sm-3 col-md-8">
+                                        <div class="fecha3"><i class="fa fa-calendar-check-o"></i> Cierre: 01-Dic-2015 - 13:30</div>
+                                    </div>
+                                </div>
+                                <div class="infolote">
+                                    <div class="col-sm-3 col-md-7 infolote">
+                                        <div class="sublotes3">MAZDA 2 AÑO 2013 PATENTE FWHW93 (LOTE EXENTO DE IVA) (UBIC. BODEGA IMACOM, LAMPA)</div>
+                                    </div>
+                                    <div class="col-sm-3 col-md-5">
+                                        <button type="button" class="btn btn-warning btn-xs btn-block"><i class="fa fa-star"></i> Seguir Lote</button>
+                                        <a href ="ficha21.html"><button type="button" class="btn btn-success btn-xs btn-block"><i class="fa fa-legal"></i> Ir a la Subasta</button></a>
+                                    </div>
+                                    <div class="clearfix"></div>
+                                </div>                                        
+                                <div class="infobottom2">
+                                    <div class="row">                                            
+                                        <div class="col-sm-3 col-md-12">
+                                            <div class="valor">
+                                                Valor Actual: $1.000.000 <small>(CLP)</small>
+                                            </div>                                                    
+                                        </div>
+                                    </div>
+                                </div>                                        
+                                <div class="infobottom">
+                                    <div class="row">                                            
+                                        <div class="col-sm-3 col-md-4">
+                                            <center><i class="fa fa-user"></i> Visitas: 131</center>
+                                        </div>
+                                        <div class="col-sm-3 col-md-4">
+                                            <center><i class="fa fa-money"></i> Compra: 3</center>
+                                        </div>
+                                        <div class="col-sm-3 col-md-4">
+                                            <center><i class="fa fa-hand-paper-o"></i> Ofertas: 6</center>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-sm-3 col-md-12">
+                                        <div class="disponible3"><i class="fa fa-check"></i> Disponible - Abierto para Ofertas</div> 
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <br>
+                   
+                    <br>
+
+                    <div class="row">
+                        <div class="col-md-12">
+                                <nav>
+                                    <ul class="pagination">
+                                        <li><a href="#" aria-label="Previous"><span aria-hidden="true">«</span></a></li>
+                                        <li><a href="#">1</a></li>
+                                <!--        <li><a href="#">2</a></li>
+                                        <li><a href="#">3</a></li>
+                                        <li><a href="#">4</a></li>
+                                        <li><a href="#">5</a></li> -->
+                                        <li><a href="#" aria-label="Next"><span aria-hidden="true">»</span></a></li>
+                                    </ul>    
+                                </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+			
+								<div class="col-md-6">
+                                    <div class="modal fade bs-example-modal-lg" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                                        <div class="modal-dialog modal-lg" role="document">
+                                            <div class="modal-content">
+                                                <div class="modal-header">
+                                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                                    <h4 class="modal-title" id="myModalLabel">Elija un tipo de registro</h4>
+                                                </div>
+                                                <div class="modal-body">
+                                                    <div class="panel panel-default panel-login">
+														<div class="panel-body">
+															<div align="center"><a href="registro_pf.html"><h4>Registro Individual</h4></a></div>
+															<div align="center"><a href="registro_pj.html"><h4>Registro Empresa</h4></a></div>
+														</div>
+													</div>
+                                                </div>
+                                                <div class="modal-footer">
+                                                    <button type="button" class="btn btn-primary" data-dismiss="modal">Cerrar</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+								</div>
+								
+								<div class="col-md-6">
+                                    <div class="modal fade qv_registro_individual" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                                        <div class="modal-dialog modal-lg" role="document">
+                                            <div class="modal-content">
+                                                <div class="modal-header">
+                                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                                    <h4 class="modal-title" id="myModalLabel">¿Cómo quieres vender?</h4>
+                                                </div>
+                                                <div class="modal-body">
+                                                    <div class="panel panel-default panel-login">
+														<div class="panel-body">
+															<div align="center"><a href="quierovender_pf.html"><h4>Quiero vender como persona individual</h4></a></div>
+															<div align="center"><a href="quierovender_pj.html"><h4>Quiero vender como empresa</h4></a></div>
+														</div>
+													</div>
+                                                </div>
+                                                <div class="modal-footer">
+                                                    <button type="button" class="btn btn-primary" data-dismiss="modal">Cerrar</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+								</div>
+			
+            <div class="row" id="footer">
+                <div class="col-md-7">
+                    <div class="copyright">
+                        Todos los derechos reservados a Publiremate 2015.
+                    </div>
+                </div>
+                <div class="col-md-5">
+                    <div class="copyright">
+                        <a href="#">Política de Privacidad</a> &nbsp; <a href="http://www.imacom.cl" class="pull-right">Realizado por Agencia Digital: <img src="images/imacom-.png" width="90" height="25"></a>
+                    </div>
+                </div>
+            </div>
+        </div><!-- /.container -->
+
+
+        <!-- Bootstrap core JavaScript
+        ================================================== -->
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+        <script src="/js/ie10-viewport-bug-workaround.js"></script>
+    </body>
+</html>

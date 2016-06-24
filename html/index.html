@@ -1,0 +1,637 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <link rel="icon" href="../../favicon.ico">
+
+        <title>Publiremate</title>
+
+        <!-- Bootstrap core CSS -->
+        <link href="css/bootstrap.css" rel="stylesheet">
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300,400italic,800' rel='stylesheet' type='text/css'>
+
+        <!-- Custom styles for this template -->
+        <link href="css/style.css" rel="stylesheet">
+
+
+        <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+        <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+        <script src="js/ie-emulation-modes-warning.js"></script>
+
+        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
+
+    <body>
+
+        <nav class="navbar">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#"><img src="images/logo.png"></a>
+                </div>
+                <div id="navbar" class="collapse navbar-collapse">
+                    <form class="navbar-form navbar-right">
+                        <input type="text" class="form-control" placeholder="Buscar...">
+                    </form>
+                    <ul class="nav navbar-nav">
+                        <li class="active"><a href="index.html"><i class="fa fa-home"></i> Inicio</a></li>
+                        <li><a href="#"><i class="fa fa-check-square"></i> ¡Quiero Vender!</a></li>
+                        <li><a href="#"><i class="fa fa-user"></i> Mi Cuenta</a></li>
+                        <li><a href="registro.html"><i class="fa fa-sign-in"></i> Registro</a></li>
+                        <li><a href="#"><i class="fa fa-life-ring"></i> Ayuda</a></li>
+                    </ul>
+                </div><!--/.nav-collapse -->
+            </div>
+        </nav>
+        
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-2" id="leftnav">
+                    <div class="categorias"><i class="fa fa-tags"></i> CATEGORÍAS</div>
+                    <ul class="nav nav-sidebar">
+                        <table>
+                        
+                        <tr>
+                            <li class="active">                            
+                                <td class="col-md-11 categ"><a href="categoria.html">Autos y Motos</a></td>
+                                <td class="col-md-1"><span class="label label-success">12</span></td>                            
+                            </li> 
+                        </tr>
+                        <tr>
+                            <li>
+                                <td class="col-md-11 categ"><a href="#">Camiones y Autobuses</a></td>
+                                <td class="col-md-1"><span class="label label-success">12</span></td>
+                            </li>
+                        </tr>
+                        <tr>
+                            <li>
+                                <td class="col-md-11 categ"><a href="#">Industrial, Maquinaria y Equipos</a></td>
+                                <td class="col-md-1"><span class="label label-success">12</span></td>
+                            </li>
+                        </tr>
+                        <tr>
+                            <li>
+                                <td class="col-md-11 categ"><a href="#">Maq. de Construcción y Agrícola</a></td>
+                                <td class="col-md-1"><span class="label label-success">120</span></td>
+                            </li>
+                        </tr>
+                        <tr>
+                            <li>
+                                <td class="col-md-11 categ"><a href="#">Movimiento y Transporte</a></td>
+                                <td class="col-md-1"><span class="label label-success">12</span></td>
+                            </li>
+                        </tr>
+                        <tr>
+                            <li>
+                                <td class="col-md-11 categ"><a href="#">Chatarras, Materiales y Residuos</a></td>
+                                <td class="col-md-1"><span class="label label-success">12</span></td>
+                            </li>
+                        </tr>
+                        <tr>
+                            <li>
+                                <td class="col-md-11 categ"><a href="#">Muebles, Casa y Decoración</a></td>
+                                <td class="col-md-1"><span class="label label-success">12</span></td>
+                            </li>
+                        </tr>
+                        <tr>
+                            <li>
+                                <td class="col-md-11 categ"><a href="#">Inmuebles</a></td>
+                                <td class="col-md-1"><span class="label label-success">12</span></td>
+                            </li>
+                        </tr>
+                        <tr>
+                            <li>
+                                <td class="col-md-11 categ"><a href="#">Embarcaciones</a></td>
+                                <td class="col-md-1"><span class="label label-default">0</span></td>
+                            </li>
+                        </tr>
+                        <tr>
+                            <li>
+                                <td class="col-md-11 categ"><a href="#">Electrónica e Informática</a></td>
+                                <td class="col-md-1"><span class="label label-success">12</span></td>
+                            </li>
+                        </tr>
+                        <tr>
+                            <li>
+                                <td class="col-md-11 categ"><a href="#">Viajes y Placer</a></td>
+                                <td class="col-md-1"><span class="label label-default">0</span></td>
+                            </li>
+                        </tr>
+                        <tr>
+                            <li>
+                                <td class="col-md-11 categ"><a href="#">Joyas</a></td>
+                                <td class="col-md-1"><span class="label label-default">0</span></td>
+                            </li>
+                        </tr>
+                        </table>
+                        <!--<li><a href="#">Industrial, Maquinaria y Equipos <span class="label label-success">12</span></a></li>
+                        <li><a href="#">Maq. de Construcción y Agrícola <span class="label label-success">12</span></a></li>
+                        <li><a href="#">Movimiento y Transporte <span class="label label-success">12</span></a></li>
+                        <li><a href="#">Chatarras, Materiales y Residuos <span class="label label-success">12</span></a></li>
+                        <li><a href="#">Muebles, Casa y Decoración <span class="label label-default">0</span></a></li>
+                        <li><a href="#">Inmuebles <span class="label label-success">12</span></a></li>
+                        <li><a href="#">Embarcaciones <span class="label label-default">0</span></a></li>
+                        <li><a href="#">Electrónica e Informática <span class="label label-success">12</span></a></li>
+                        <li><a href="#">Viajes y Placer <span class="label label-success">12</span></a></li>
+                        <li><a href="#">Joyas <span class="label label-default">0</span></a></li>-->
+                        
+                        
+                    </ul>
+                </div>
+                <div class="col-md-10">
+                    <ul class="nav nav-tabs" role="tablist">
+                        <li role="presentation" class="active"><a href="#subastasd" aria-controls="home" role="tab" data-toggle="tab"><i class="fa fa-gavel"></i> SUBASTAS DISPONIBLES</a></li>
+                        <li role="presentation"><a href="#subastasf" aria-controls="profile" role="tab" data-toggle="tab"><i class="fa fa-reply-all"></i> SUBASTAS FINALIZADAS</a></li>
+                    </ul>
+
+                    <!-- Tab panes -->
+                    <div class="tab-content">
+                        <div role="tabpanel" class="tab-pane active" id="subastasd">
+                            <br>
+                            <div class="row">
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/c0.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="disponible3"><i class="fa fa-check"></i> Disponible <br>Abierto para Ofertas</div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/c1.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="disponible3"><i class="fa fa-check"></i> Disponible <br>Abierto para Ofertas</div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/c2.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="disponible3"><i class="fa fa-check"></i> Disponible <br>Abierto para Ofertas</div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/c3.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="disponible3"><i class="fa fa-check"></i> Disponible <br>Abierto para Ofertas</div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/c4.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="disponible3"><i class="fa fa-check"></i> Disponible <br>Abierto para Ofertas</div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/c5.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="disponible3"><i class="fa fa-check"></i> Disponible <br>Abierto para Ofertas</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/sinfoto.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="disponible3"><i class="fa fa-check"></i> Disponible <br>Abierto para Ofertas</div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/sinfoto.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="disponible3"><i class="fa fa-check"></i> Disponible <br>Abierto para Ofertas</div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/sinfoto.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="disponible3"><i class="fa fa-check"></i> Disponible <br>Abierto para Ofertas</div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/sinfoto.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="disponible3"><i class="fa fa-check"></i> Disponible <br>Abierto para Ofertas</div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/sinfoto.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="disponible3"><i class="fa fa-check"></i> Disponible <br>Abierto para Ofertas</div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/sinfoto.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="disponible3"><i class="fa fa-check"></i> Disponible <br>Abierto para Ofertas</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/sinfoto.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="disponible3"><i class="fa fa-check"></i> Disponible <br>Abierto para Ofertas</div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/sinfoto.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="disponible3"><i class="fa fa-check"></i> Disponible <br>Abierto para Ofertas</div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/sinfoto.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="disponible3"><i class="fa fa-check"></i> Disponible <br>Abierto para Ofertas</div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/sinfoto.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="disponible3"><i class="fa fa-check"></i> Disponible <br>Abierto para Ofertas</div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/sinfoto.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="disponible3"><i class="fa fa-check"></i> Disponible <br>Abierto para Ofertas</div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/sinfoto.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="disponible3"><i class="fa fa-check"></i> Disponible <br>Abierto para Ofertas</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12">
+                                        <nav>
+                                            <ul class="pagination">
+                                                <li><a href="#" aria-label="Previous"><span aria-hidden="true">«</span></a></li>
+                                                <li><a href="#">1</a></li>
+                                                <li><a href="#">2</a></li>
+                                                <li><a href="#">3</a></li>
+                                                <li><a href="#">4</a></li>
+                                                <li><a href="#">5</a></li>
+                                                <li><a href="#" aria-label="Next"><span aria-hidden="true">»</span></a></li>
+                                            </ul>    
+                                        </nav>
+                                </div>
+                            </div>
+                        </div>
+                        <div role="tabpanel" class="tab-pane fade" id="subastasf">
+                            <br>
+                            <div class="row">
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/sinfoto.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="finalizado3"><i class="fa fa-times"></i> Finalizado <br>Ver Resultados</div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/sinfoto.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="finalizado3"><i class="fa fa-times"></i> Finalizado <br>Ver Resultados</div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/sinfoto.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="finalizado3"><i class="fa fa-times"></i> Finalizado <br>Ver Resultados</div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/sinfoto.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="finalizado3"><i class="fa fa-times"></i> Finalizado <br>Ver Resultados</div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/sinfoto.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="finalizado3"><i class="fa fa-times"></i> Finalizado <br>Ver Resultados</div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/sinfoto.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="finalizado3"><i class="fa fa-times"></i> Finalizado <br>Ver Resultados</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/sinfoto.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="finalizado3"><i class="fa fa-times"></i> Finalizado <br>Ver Resultados</div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/sinfoto.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="finalizado3"><i class="fa fa-times"></i> Finalizado <br>Ver Resultados</div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/sinfoto.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="finalizado3"><i class="fa fa-times"></i> Finalizado <br>Ver Resultados</div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/sinfoto.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="finalizado3"><i class="fa fa-times"></i> Finalizado <br>Ver Resultados</div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/sinfoto.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="finalizado3"><i class="fa fa-times"></i> Finalizado <br>Ver Resultados</div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-2">
+                                    <div class="thumbnail">
+                                        <div>
+                                            <div class="labelfecha"><i class="fa fa-calendar-check-o"></i> 30-Ago-2015 - 12:00</div>
+                                            <div class="labellugar"><i class="fa fa-map-marker"></i> Bodega Lampa, Santiago</div>
+                                        </div>
+                                        <img src="images/sinfoto.jpg" alt="...">
+                                        <div class="caption">
+                                            <div class="titlelotes">1° Licitación Andrade Gutierrez</div>
+                                            <div class="sublotes">Yamaha R15, Mack CV713, Chevrolet Optra, Renault Kerax, Great Wall Wingle. (Ubic. Bodega IMACOM, Lampa)</div>
+                                        </div>
+                                        <div class="finalizado3"><i class="fa fa-times"></i> Finalizado <br>Ver Resultados</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row" id="footer">
+                <div class="col-md-12">
+                    <div class="copyright">
+                        Todos los derechos reservados a Publiremate 2015.
+                    </div>
+                </div>
+            </div>
+        </div><!-- /.container -->
+
+
+        <!-- Bootstrap core JavaScript
+        ================================================== -->
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+        <script src="/js/ie10-viewport-bug-workaround.js"></script>
+    </body>
+</html>

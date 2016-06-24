@@ -1,0 +1,1065 @@
+[24-Aug-2015 16:52:37 America/Santiago] PHP Fatal error:  Call to a member function check() on a non-object in /home/reremate/public_html/application/controllers/usuario.php on line 21
+[24-Aug-2015 16:57:14 America/Santiago] PHP Fatal error:  Call to a member function check() on a non-object in /home/reremate/public_html/application/controllers/usuario.php on line 21
+[24-Aug-2015 16:58:56 America/Santiago] PHP Fatal error:  Call to undefined method CI_Loader::libraries() in /home/reremate/public_html/application/controllers/usuario.php on line 11
+[24-Aug-2015 17:02:17 America/Santiago] PHP Fatal error:  Call to a member function check() on a non-object in /home/reremate/public_html/application/controllers/usuario.php on line 21
+[24-Aug-2015 17:07:53 America/Santiago] PHP Fatal error:  Call to a member function check() on a non-object in /home/reremate/public_html/application/controllers/usuario.php on line 21
+[24-Aug-2015 17:10:13 America/Santiago] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/reremate/public_html/application/libraries/auth.php on line 16
+[24-Aug-2015 17:10:17 America/Santiago] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/reremate/public_html/application/libraries/auth.php on line 16
+[24-Aug-2015 17:10:58 America/Santiago] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/reremate/public_html/application/libraries/auth.php on line 16
+[24-Aug-2015 17:17:12 America/Santiago] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/reremate/public_html/application/libraries/auth.php on line 16
+[24-Aug-2015 17:20:49 America/Santiago] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/reremate/public_html/application/libraries/auth.php on line 16
+[24-Aug-2015 17:26:07 America/Santiago] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/reremate/public_html/application/libraries/auth.php on line 16
+[24-Aug-2015 17:27:03 America/Santiago] PHP Fatal error:  Call to a member function library() on a non-object in /home/reremate/public_html/application/libraries/auth.php on line 16
+[24-Aug-2015 17:28:19 America/Santiago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/reremate/public_html/application/libraries/auth.php on line 12
+[24-Aug-2015 17:29:54 America/Santiago] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/reremate/public_html/application/libraries/auth.php on line 16
+[24-Aug-2015 17:31:08 America/Santiago] PHP Fatal error:  Call to a member function check() on a non-object in /home/reremate/public_html/application/controllers/usuario.php on line 22
+[24-Aug-2015 17:34:45 America/Santiago] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/reremate/public_html/application/libraries/auth.php on line 15
+[24-Aug-2015 17:34:50 America/Santiago] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/reremate/public_html/application/libraries/auth.php on line 15
+[24-Aug-2015 17:37:09 America/Santiago] PHP Fatal error:  Call to a member function library() on a non-object in /home/reremate/public_html/application/libraries/auth.php on line 15
+[24-Aug-2015 17:40:43 America/Santiago] PHP Fatal error:  Call to undefined function base_url() in /home/reremate/public_html/application/views/header.php on line 9
+[24-Aug-2015 17:47:40 America/Santiago] PHP Fatal error:  Call to undefined function base_url() in /home/reremate/public_html/application/views/header.php on line 9
+[24-Aug-2015 17:50:57 America/Santiago] PHP Fatal error:  Call to undefined function site_url() in /home/reremate/public_html/application/views/header.php on line 9
+[24-Aug-2015 17:55:43 America/Santiago] PHP Fatal error:  Call to undefined function site_url() in /home/reremate/public_html/application/views/header.php on line 9
+[24-Aug-2015 17:58:54 America/Santiago] PHP Fatal error:  Call to undefined method Usuario::_view() in /home/reremate/public_html/application/controllers/usuario.php on line 28
+[25-Aug-2015 08:12:43 America/Santiago] PHP Fatal error:  Call to undefined method Usuario::_view() in /home/reremate/public_html/application/controllers/usuario.php on line 28
+[25-Aug-2015 08:31:51 America/Santiago] PHP Fatal error:  Call to a member function flashdata() on a non-object in /home/reremate/public_html/application/controllers/usuario.php on line 93
+[25-Aug-2015 08:41:13 America/Santiago] PHP Fatal error:  Call to undefined function mostrar_mensaje() in /home/reremate/public_html/application/views/usuario/entrar.php on line 16
+[25-Aug-2015 08:48:30 America/Santiago] PHP Fatal error:  Call to undefined function mostrar_mensaje() in /home/reremate/public_html/application/views/usuario/entrar.php on line 16
+[25-Aug-2015 09:01:30 America/Santiago] PHP Fatal error:  Call to undefined function mostrar_mensaje() in /home/reremate/public_html/application/views/usuario/entrar.php on line 16
+[25-Aug-2015 09:33:58 America/Santiago] PHP Fatal error:  Call to undefined function mostrar_mensaje() in /home/reremate/public_html/application/views/usuario/recuperar_clave.php on line 17
+[25-Aug-2015 09:56:09 America/Santiago] PHP Fatal error:  Call to undefined function mostrar_mensaje() in /home/reremate/public_html/application/views/usuario/recuperar_clave.php on line 17
+[25-Aug-2015 09:58:02 America/Santiago] PHP Fatal error:  Call to a member function from() on a non-object in /home/reremate/public_html/application/libraries/auth.php on line 30
+[25-Aug-2015 10:01:41 America/Santiago] PHP Fatal error:  Call to a member function from() on a non-object in /home/reremate/public_html/application/libraries/auth.php on line 30
+[25-Aug-2015 10:01:50 America/Santiago] PHP Fatal error:  Call to undefined function mostrar_mensaje() in /home/reremate/public_html/application/views/usuario/recuperar_clave.php on line 17
+[25-Aug-2015 14:23:34 America/Santiago] PHP Fatal error:  Call to a member function from() on a non-object in /home/reremate/public_html/application/libraries/auth.php on line 30
+[25-Aug-2015 14:29:29 America/Santiago] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/reremate/public_html/application/libraries/auth.php on line 16
+[25-Aug-2015 14:30:50 America/Santiago] PHP Fatal error:  Call to a member function helper() on a non-object in /home/reremate/public_html/application/libraries/auth.php on line 15
+[25-Aug-2015 14:32:24 America/Santiago] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/reremate/public_html/application/libraries/auth.php on line 15
+[25-Aug-2015 14:33:34 America/Santiago] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/reremate/public_html/application/libraries/auth.php on line 15
+[25-Aug-2015 14:39:28 America/Santiago] PHP Fatal error:  Call to a member function from() on a non-object in /home/reremate/public_html/application/libraries/auth.php on line 30
+[25-Aug-2015 14:48:32 America/Santiago] PHP Fatal error:  Call to a member function from() on a non-object in /home/reremate/public_html/application/libraries/auth.php on line 30
+[25-Aug-2015 14:59:42 America/Santiago] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/reremate/public_html/application/libraries/auth.php on line 29
+[25-Aug-2015 14:59:50 America/Santiago] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in /home/reremate/public_html/application/libraries/auth.php on line 29
+[25-Aug-2015 15:08:54 America/Santiago] PHP Fatal error:  Call to a member function database() on a non-object in /home/reremate/public_html/application/libraries/auth.php on line 29
+[25-Aug-2015 15:11:59 America/Santiago] PHP Fatal error:  Call to a member function library() on a non-object in /home/reremate/public_html/application/libraries/auth.php on line 29
+[25-Aug-2015 15:12:34 America/Santiago] PHP Fatal error:  Call to a member function library() on a non-object in /home/reremate/public_html/application/libraries/auth.php on line 29
+[25-Aug-2015 16:33:40 America/Santiago] PHP Fatal error:  Call to undefined function mostrar_mensaje() in /home/reremate/public_html/application/views/admin/recuperar_clave.php on line 17
+[25-Aug-2015 16:57:42 America/Santiago] PHP Fatal error:  Call to undefined function mostrar_mensaje() in /home/reremate/public_html/application/views/admin/recuperar_clave.php on line 17
+[27-Aug-2015 11:20:51 America/Santiago] PHP Fatal error:  Call to a member function select() on a non-object in /home/reremate/public_html/application/models/rematador_model.php on line 11
+[27-Aug-2015 11:37:30 America/Santiago] PHP Fatal error:  Call to a member function select() on a non-object in /home/reremate/public_html/application/models/rematador_model.php on line 12
+[27-Aug-2015 11:39:36 America/Santiago] PHP Fatal error:  Call to a member function flashdata() on a non-object in /home/reremate/public_html/application/controllers/remate.php on line 148
+[27-Aug-2015 11:55:26 America/Santiago] PHP Fatal error:  Call to a member function check() on a non-object in /home/reremate/public_html/application/views/header.php on line 2
+[27-Aug-2015 11:57:20 America/Santiago] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/remate/ingresar.php on line 17
+[27-Aug-2015 12:04:21 America/Santiago] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/remate/ingresar.php on line 18
+[27-Aug-2015 12:07:53 America/Santiago] PHP Fatal error:  Call to a member function count_all_results() on a non-object in /home/reremate/public_html/application/views/remate/ingresar.php on line 18
+[27-Aug-2015 12:15:31 America/Santiago] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/remate/ingresar.php on line 17
+[02-Sep-2015 15:00:42 America/Santiago] PHP Fatal error:  Call to a member function check() on a non-object in /home/reremate/public_html/application/controllers/categoria.php on line 20
+[02-Sep-2015 15:15:09 America/Santiago] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/reremate/public_html/application/controllers/categoria.php on line 26
+[02-Sep-2015 15:17:12 America/Santiago] PHP Fatal error:  Call to undefined function base_url() in /home/reremate/public_html/application/views/header.php on line 9
+[02-Sep-2015 15:18:53 America/Santiago] PHP Fatal error:  Call to undefined function base_url() in /home/reremate/public_html/application/views/header.php on line 9
+[02-Sep-2015 15:20:58 America/Santiago] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/reremate/public_html/application/views/categoria/administrar_categorias.php on line 26
+[02-Sep-2015 15:26:53 America/Santiago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/reremate/public_html/application/views/categoria/administrar_categorias.php on line 33
+[02-Sep-2015 15:44:14 America/Santiago] PHP Fatal error:  Call to undefined function mostrar_mensaje() in /home/reremate/public_html/application/views/categoria/administrar_categorias.php on line 6
+[03-Sep-2015 16:18:34 America/Santiago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/reremate/public_html/application/controllers/categoria.php on line 40
+[03-Sep-2015 16:18:42 America/Santiago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/reremate/public_html/application/controllers/categoria.php on line 40
+[09-Sep-2015 13:05:18 America/Santiago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/reremate/public_html/application/controllers/categoria.php on line 97
+[10-Sep-2015 10:29:29 America/Santiago] PHP Fatal error:  Call to undefined method stdClass::result() in /home/reremate/public_html/application/views/categoria/administrar_categorias.php on line 31
+[10-Sep-2015 15:31:27 America/Santiago] PHP Fatal error:  Call to undefined method stdClass::num_rows() in /home/reremate/public_html/application/views/categoria/administrar_categorias.php on line 31
+[10-Sep-2015 15:36:20 America/Santiago] PHP Fatal error:  Call to undefined method stdClass::num_rows() in /home/reremate/public_html/application/views/categoria/administrar_categorias.php on line 31
+[10-Sep-2015 15:47:14 America/Santiago] PHP Fatal error:  Call to undefined method Categoria_model::obtener_la_primera_categoria() in /home/reremate/public_html/application/views/categoria/administrar_categorias.php on line 30
+[10-Sep-2015 15:47:21 America/Santiago] PHP Fatal error:  Call to undefined method Categoria_model::obtener_la_primera_categoria() in /home/reremate/public_html/application/views/categoria/administrar_categorias.php on line 30
+[10-Sep-2015 15:47:51 America/Santiago] PHP Fatal error:  Call to undefined method Categoria_model::obtener_la_primera_categoria() in /home/reremate/public_html/application/views/categoria/administrar_categorias.php on line 30
+[10-Sep-2015 15:50:41 America/Santiago] PHP Fatal error:  Call to undefined method Categoria_model::obtener_la_primera_categoria() in /home/reremate/public_html/application/views/categoria/administrar_categorias.php on line 30
+[11-Sep-2015 16:27:44 America/Santiago] PHP Fatal error:  Call to undefined method Categoria_model::validar_existencia_del_proyecto() in /home/reremate/public_html/application/controllers/categoria.php on line 44
+[11-Sep-2015 16:29:21 America/Santiago] PHP Fatal error:  Call to undefined method Categoria_model::validar_existencia_del_proyecto() in /home/reremate/public_html/application/controllers/categoria.php on line 44
+[11-Sep-2015 16:29:38 America/Santiago] PHP Fatal error:  Call to undefined method Categoria_model::validar_existencia_del_proyecto() in /home/reremate/public_html/application/controllers/categoria.php on line 44
+[11-Sep-2015 16:32:15 America/Santiago] PHP Fatal error:  Call to undefined method Categoria_model::validar_existencia_del_proyecto() in /home/reremate/public_html/application/controllers/categoria.php on line 45
+[15-Sep-2015 11:11:47 America/Santiago] PHP Fatal error:  Call to undefined method Categoria::view() in /home/reremate/public_html/application/controllers/categoria.php on line 41
+[15-Sep-2015 18:37:47 America/Santiago] PHP Parse error:  syntax error, unexpected '?>' in /home/reremate/public_html/application/views/categoria/editar_categoria.php on line 19
+[15-Sep-2015 18:48:24 America/Santiago] PHP Parse error:  syntax error, unexpected ';' in /home/reremate/public_html/application/views/categoria/editar_categoria.php on line 19
+[16-Sep-2015 18:34:05 America/Santiago] PHP Fatal error:  Call to undefined method Admin_model::obtener() in /home/reremate/public_html/application/controllers/admin.php on line 140
+[16-Sep-2015 18:34:12 America/Santiago] PHP Fatal error:  Call to undefined method Admin_model::obtener() in /home/reremate/public_html/application/controllers/admin.php on line 140
+[16-Sep-2015 18:36:20 America/Santiago] PHP Fatal error:  Call to undefined method Admin_model::obtener() in /home/reremate/public_html/application/controllers/admin.php on line 140
+[16-Sep-2015 18:55:30 America/Santiago] PHP Fatal error:  Call to undefined method Admin_model::obtener() in /home/reremate/public_html/application/controllers/admin.php on line 140
+[16-Sep-2015 18:58:42 America/Santiago] PHP Fatal error:  Call to undefined method Admin_model::obtener() in /home/reremate/public_html/application/controllers/admin.php on line 140
+[17-Sep-2015 09:12:39 America/Santiago] PHP Fatal error:  Call to undefined method Admin_model::obtener() in /home/reremate/public_html/application/controllers/admin.php on line 140
+[17-Sep-2015 11:52:37 America/Santiago] PHP Fatal error:  Call to undefined method Admin_model::obtener() in /home/reremate/public_html/application/controllers/admin.php on line 140
+[17-Sep-2015 11:55:26 America/Santiago] PHP Fatal error:  Call to undefined method Admin_model::obtener() in /home/reremate/public_html/application/controllers/admin.php on line 140
+[06-Oct-2015 18:49:10 America/Santiago] PHP Parse error:  syntax error, unexpected '$tipo_id' (T_VARIABLE) in /home/reremate/public_html/application/controllers/tipo_categoria.php on line 78
+[15-Oct-2015 12:56:29 UTC] PHP Fatal error:  Cannot redeclare class Categoria_model in /home/reremate/public_html/application/models/tipo_categoria_model.php on line 108
+[15-Oct-2015 12:58:57 UTC] PHP Fatal error:  Cannot redeclare class Categoria_model in /home/reremate/public_html/application/models/tipo_categoria_model.php on line 108
+[15-Oct-2015 13:07:39 UTC] PHP Fatal error:  Cannot redeclare class Categoria_model in /home/reremate/public_html/application/models/tipo_categoria_model.php on line 108
+[15-Oct-2015 13:32:06 UTC] PHP Fatal error:  Cannot redeclare class Categoria_model in /home/reremate/public_html/application/models/tipo_categoria_model.php on line 108
+[15-Oct-2015 18:02:44 UTC] PHP Fatal error:  Cannot redeclare class Categoria_model in /home/reremate/public_html/application/models/tipo_categoria_model.php on line 108
+[15-Oct-2015 19:02:02 UTC] PHP Fatal error:  Cannot redeclare class Categoria_model in /home/reremate/public_html/application/models/tipo_categoria_model.php on line 108
+[15-Oct-2015 19:04:26 UTC] PHP Fatal error:  Cannot redeclare class Categoria_model in /home/reremate/public_html/application/models/tipo_categoria_model.php on line 108
+[15-Oct-2015 21:08:43 UTC] PHP Fatal error:  Cannot redeclare class Categoria_model in /home/reremate/public_html/application/models/tipo_categoria_model.php on line 108
+[15-Oct-2015 21:15:19 UTC] PHP Fatal error:  Cannot redeclare class Categoria_model in /home/reremate/public_html/application/models/tipo_categoria_model.php on line 108
+[15-Oct-2015 21:58:14 UTC] PHP Fatal error:  Cannot redeclare class Remate_model in /home/reremate/public_html/application/models/lote_model.php on line 58
+[26-Oct-2015 21:43:05 UTC] PHP Fatal error:  Call to undefined method Remate_model::obtener_remates() in /home/reremate/public_html/application/views/lote/ingresar.php on line 41
+[26-Oct-2015 21:45:11 UTC] PHP Fatal error:  Call to undefined method Remate_model::obtener_remates() in /home/reremate/public_html/application/views/lote/ingresar_lote.php on line 41
+[12-Nov-2015 13:34:33 UTC] PHP Fatal error:  Call to undefined method CI_Loader::_view() in /home/reremate/public_html/application/controllers/inicio.php on line 7
+[12-Nov-2015 13:36:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/reremate/public_html/application/views/gadgets/categorias.php on line 26
+[12-Nov-2015 14:34:05 UTC] PHP Fatal error:  Call to undefined method Gadget_model::obtener_categorias() in /home/reremate/public_html/application/views/gadgets/categorias.php on line 16
+[12-Nov-2015 16:23:20 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/reremate/public_html/application/models/gadget_model.php on line 54
+[12-Nov-2015 16:36:02 UTC] PHP Fatal error:  Call to undefined method Rematador_model::obtener_listado_rematadores() in /home/reremate/public_html/application/views/remate/ingresar.php on line 73
+[12-Nov-2015 16:39:37 UTC] PHP Fatal error:  Call to undefined method Rematador_model::obtener_listado_rematadores() in /home/reremate/public_html/application/views/remate/ingresar.php on line 73
+[12-Nov-2015 16:52:58 UTC] PHP Fatal error:  Call to undefined method Rematador_model::obtener_listado_rematadores() in /home/reremate/public_html/application/views/rematador/registrar.php on line 73
+[12-Nov-2015 16:53:28 UTC] PHP Fatal error:  Call to undefined method Rematador_model::obtener_listado_rematadores() in /home/reremate/public_html/application/views/rematador/registrar.php on line 73
+[12-Nov-2015 16:53:51 UTC] PHP Fatal error:  Call to undefined method Rematador_model::obtener_listado_rematadores() in /home/reremate/public_html/application/views/rematador/registrar.php on line 29
+[12-Nov-2015 16:53:52 UTC] PHP Fatal error:  Call to undefined method Rematador_model::obtener_listado_rematadores() in /home/reremate/public_html/application/views/rematador/registrar.php on line 29
+[12-Nov-2015 16:53:52 UTC] PHP Fatal error:  Call to undefined method Rematador_model::obtener_listado_rematadores() in /home/reremate/public_html/application/views/rematador/registrar.php on line 29
+[12-Nov-2015 16:53:53 UTC] PHP Fatal error:  Call to undefined method Rematador_model::obtener_listado_rematadores() in /home/reremate/public_html/application/views/rematador/registrar.php on line 29
+[12-Nov-2015 16:53:53 UTC] PHP Fatal error:  Call to undefined method Rematador_model::obtener_listado_rematadores() in /home/reremate/public_html/application/views/rematador/registrar.php on line 29
+[16-Nov-2015 16:16:29 UTC] PHP Fatal error:  Call to undefined method Gadget_model::obtener_remates_totales_por_categoria() in /home/reremate/public_html/application/views/gadgets/categorias.php on line 22
+[16-Nov-2015 16:40:43 UTC] PHP Fatal error:  Class 'Modules' not found in /home/reremate/public_html/application/views/gadgets/tabs.php on line 10
+[16-Nov-2015 18:42:16 UTC] PHP Fatal error:  Class 'Modules' not found in /home/reremate/public_html/application/views/gadgets/tabs.php on line 10
+[16-Nov-2015 18:54:36 UTC] PHP Fatal error:  Class 'Modules' not found in /home/reremate/public_html/application/views/gadgets/tabs.php on line 10
+[16-Nov-2015 20:41:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/reremate/public_html/application/views/gadgets/subastas_disponibles.php on line 76
+[16-Nov-2015 20:44:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/reremate/public_html/application/views/gadgets/subastas_disponibles.php on line 74
+[16-Nov-2015 20:44:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/reremate/public_html/application/views/gadgets/subastas_disponibles.php on line 74
+[16-Nov-2015 21:29:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/reremate/public_html/application/views/gadgets/subastas_disponibles.php on line 74
+[16-Nov-2015 21:30:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/reremate/public_html/application/views/gadgets/subastas_disponibles.php on line 27
+[16-Nov-2015 21:30:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/reremate/public_html/application/views/gadgets/subastas_disponibles.php on line 27
+[17-Nov-2015 13:38:36 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/reremate/public_html/application/models/rematador_model.php on line 54
+[17-Nov-2015 13:38:38 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/reremate/public_html/application/models/rematador_model.php on line 54
+[17-Nov-2015 13:39:31 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/reremate/public_html/application/models/rematador_model.php on line 53
+[17-Nov-2015 13:45:37 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/reremate/public_html/application/models/rematador_model.php on line 54
+[17-Nov-2015 15:24:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/reremate/public_html/application/views/gadgets/subastas_disponibles.php on line 27
+[17-Nov-2015 15:27:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/reremate/public_html/application/views/gadgets/subastas_disponibles.php on line 27
+[18-Nov-2015 14:54:38 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/reremate/public_html/application/models/rematador_model.php on line 17
+[18-Nov-2015 14:55:06 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/reremate/public_html/application/models/rematador_model.php on line 17
+[18-Nov-2015 15:02:44 UTC] PHP Fatal error:  Call to undefined function uc() in /home/reremate/public_html/application/models/rematador_model.php on line 11
+[18-Nov-2015 18:26:24 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/reremate/public_html/application/controllers/ayuda.php on line 87
+[18-Nov-2015 19:40:33 UTC] PHP Fatal error:  Call to undefined method Rematador_model::obtener_listado_rematadores() in /home/reremate/public_html/application/views/remate/ingresar.php on line 84
+[18-Nov-2015 20:54:32 UTC] PHP Fatal error:  Call to undefined function format() in /home/reremate/public_html/application/controllers/remate.php on line 54
+[24-Nov-2015 13:15:35 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/reremate/public_html/application/views/header.php on line 15
+[24-Nov-2015 13:15:42 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/reremate/public_html/application/views/header.php on line 15
+[24-Nov-2015 13:16:04 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/reremate/public_html/application/views/header.php on line 15
+[24-Nov-2015 13:16:19 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/reremate/public_html/application/views/header.php on line 15
+[24-Nov-2015 13:16:32 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/reremate/public_html/application/views/header.php on line 15
+[24-Nov-2015 13:16:38 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/reremate/public_html/application/views/header.php on line 15
+[24-Nov-2015 13:17:09 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/reremate/public_html/application/views/header.php on line 15
+[24-Nov-2015 13:19:25 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/reremate/public_html/application/views/header.php on line 15
+[24-Nov-2015 13:19:40 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/reremate/public_html/application/views/header.php on line 15
+[24-Nov-2015 13:20:50 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/reremate/public_html/application/views/header.php on line 15
+[24-Nov-2015 13:20:55 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/reremate/public_html/application/views/header.php on line 15
+[24-Nov-2015 13:24:52 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/reremate/public_html/application/views/header.php on line 15
+[25-Nov-2015 14:52:44 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[25-Nov-2015 14:52:44 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[25-Nov-2015 18:10:46 UTC] PHP Fatal error:  Call to undefined method Lote_model::consultar_tipo_del_lote() in /home/reremate/public_html/application/views/lote/ingresar.php on line 62
+[25-Nov-2015 18:11:23 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[25-Nov-2015 18:11:23 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[25-Nov-2015 18:38:27 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[25-Nov-2015 18:38:27 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[25-Nov-2015 19:40:20 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[25-Nov-2015 19:40:20 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[25-Nov-2015 19:46:20 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[25-Nov-2015 19:46:21 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[25-Nov-2015 19:47:32 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[25-Nov-2015 19:47:32 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[25-Nov-2015 19:51:21 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[25-Nov-2015 19:59:53 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ':' in /home/reremate/public_html/application/controllers/rematador.php on line 71
+[25-Nov-2015 20:00:52 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/reremate/public_html/application/controllers/rematador.php on line 69
+[25-Nov-2015 20:29:07 UTC] PHP Fatal error:  Call to undefined method stdClass::result() in /home/reremate/public_html/application/controllers/rematador.php on line 71
+[25-Nov-2015 20:30:25 UTC] PHP Fatal error:  Call to undefined method stdClass::result_array() in /home/reremate/public_html/application/controllers/rematador.php on line 71
+[25-Nov-2015 20:32:34 UTC] PHP Fatal error:  Call to undefined method stdClass::result() in /home/reremate/public_html/application/controllers/rematador.php on line 71
+[25-Nov-2015 20:36:41 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/reremate/public_html/application/controllers/rematador.php on line 72
+[25-Nov-2015 21:14:56 UTC] PHP Fatal error:  Call to undefined method Rematador_model::obtener_listado_rematadores() in /home/reremate/public_html/application/views/remate/ingresar.php on line 83
+[25-Nov-2015 21:15:44 UTC] PHP Fatal error:  Call to undefined method Rematador_model::obtener_listado_rematadores() in /home/reremate/public_html/application/views/remate/ingresar.php on line 83
+[25-Nov-2015 21:16:16 UTC] PHP Fatal error:  Call to undefined method Rematador_model::obtener_listado_rematadores() in /home/reremate/public_html/application/views/remate/ingresar.php on line 83
+[25-Nov-2015 21:17:12 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[25-Nov-2015 21:17:12 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[25-Nov-2015 21:17:12 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[25-Nov-2015 21:17:13 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[25-Nov-2015 21:17:38 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[25-Nov-2015 21:17:39 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[25-Nov-2015 21:18:31 UTC] PHP Fatal error:  Call to undefined method Rematador_model::obtener_listado_rematadores() in /home/reremate/public_html/application/views/remate/ingresar.php on line 83
+[25-Nov-2015 21:18:39 UTC] PHP Fatal error:  Call to undefined method Rematador_model::obtener_listado_rematadores() in /home/reremate/public_html/application/views/remate/ingresar.php on line 83
+[25-Nov-2015 21:18:58 UTC] PHP Fatal error:  Call to undefined method Rematador_model::obtener_listado_rematadores() in /home/reremate/public_html/application/views/remate/ingresar.php on line 83
+[25-Nov-2015 21:19:15 UTC] PHP Fatal error:  Call to undefined method Rematador_model::obtener_listado_rematadores() in /home/reremate/public_html/application/views/remate/ingresar.php on line 83
+[25-Nov-2015 21:20:06 UTC] PHP Fatal error:  Call to undefined method Rematador_model::obtener_listado_rematadores() in /home/reremate/public_html/application/views/remate/ingresar.php on line 83
+[25-Nov-2015 21:21:22 UTC] PHP Fatal error:  Call to undefined method Rematador_model::obtener_listado_rematadores() in /home/reremate/public_html/application/views/remate/ingresar.php on line 83
+[25-Nov-2015 21:23:32 UTC] PHP Fatal error:  Call to undefined method Rematador_model::obtener_listado_rematadores() in /home/reremate/public_html/application/views/remate/ingresar.php on line 83
+[25-Nov-2015 21:23:35 UTC] PHP Fatal error:  Call to undefined method Rematador_model::obtener_listado_rematadores() in /home/reremate/public_html/application/views/remate/ingresar.php on line 83
+[25-Nov-2015 21:23:41 UTC] PHP Fatal error:  Call to undefined method Rematador_model::obtener_listado_rematadores() in /home/reremate/public_html/application/views/remate/ingresar.php on line 83
+[25-Nov-2015 21:44:07 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/reremate/public_html/application/controllers/rematador.php on line 77
+[25-Nov-2015 21:56:27 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[25-Nov-2015 21:56:27 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[25-Nov-2015 21:56:31 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[25-Nov-2015 21:56:44 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[25-Nov-2015 21:59:04 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[26-Nov-2015 12:28:13 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[26-Nov-2015 12:28:34 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[26-Nov-2015 12:28:34 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[26-Nov-2015 12:58:26 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[26-Nov-2015 13:18:53 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[26-Nov-2015 13:24:46 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[26-Nov-2015 13:24:46 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[26-Nov-2015 13:49:51 UTC] PHP Fatal error:  Call to undefined method Ofertante_model::consultar_password() in /home/reremate/public_html/application/controllers/ofertante.php on line 66
+[26-Nov-2015 13:52:27 UTC] PHP Fatal error:  Call to undefined method Ofertante_model::consultar_password() in /home/reremate/public_html/application/controllers/ofertante.php on line 66
+[26-Nov-2015 14:07:27 UTC] PHP Fatal error:  Call to undefined method Categoria_model::obtener_remates_de_la_categoria() in /home/reremate/public_html/application/views/categoria/remates_de_la_categoria.php on line 4
+[26-Nov-2015 14:11:09 UTC] PHP Fatal error:  Call to undefined method Categoria_model::obtener_rematadores_por_remate() in /home/reremate/public_html/application/views/categoria/remates_de_la_categoria.php on line 10
+[26-Nov-2015 15:05:45 UTC] PHP Parse error:  syntax error, unexpected '-', expecting '(' in /home/reremate/public_html/application/controllers/rematador.php on line 25
+[26-Nov-2015 15:10:58 UTC] PHP Parse error:  syntax error, unexpected 'nombre' (T_STRING) in /home/reremate/public_html/application/views/header.php on line 52
+[26-Nov-2015 15:11:51 UTC] PHP Parse error:  syntax error, unexpected 'nombre' (T_STRING) in /home/reremate/public_html/application/views/header.php on line 52
+[26-Nov-2015 15:12:44 UTC] PHP Parse error:  syntax error, unexpected '-', expecting '(' in /home/reremate/public_html/application/controllers/rematador.php on line 25
+[26-Nov-2015 15:13:55 UTC] PHP Parse error:  syntax error, unexpected '-', expecting '(' in /home/reremate/public_html/application/controllers/rematador.php on line 25
+[26-Nov-2015 15:14:56 UTC] PHP Parse error:  syntax error, unexpected '-', expecting '(' in /home/reremate/public_html/application/controllers/rematador.php on line 25
+[26-Nov-2015 15:15:41 UTC] PHP Parse error:  syntax error, unexpected '-', expecting '(' in /home/reremate/public_html/application/controllers/rematador.php on line 25
+[26-Nov-2015 15:23:53 UTC] PHP Parse error:  syntax error, unexpected '-', expecting '(' in /home/reremate/public_html/application/controllers/rematador.php on line 25
+[26-Nov-2015 15:49:47 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/reremate/public_html/application/views/gadgets/subastas_finalizadas.php on line 22
+[26-Nov-2015 18:41:24 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[26-Nov-2015 18:41:25 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[26-Nov-2015 18:41:27 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[26-Nov-2015 18:41:29 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[26-Nov-2015 18:43:31 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[26-Nov-2015 19:04:12 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/reremate/public_html/application/views/categoria/remates_de_la_categoria.php on line 39
+[26-Nov-2015 19:07:16 UTC] PHP Fatal error:  Class 'Categoria_model' not found in /home/reremate/public_html/system/core/Loader.php on line 303
+[26-Nov-2015 20:06:22 UTC] PHP Parse error:  syntax error, unexpected '.=' (T_CONCAT_EQUAL) in /home/reremate/public_html/application/views/remate/ver.php on line 8
+[26-Nov-2015 20:06:57 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/reremate/public_html/application/views/remate/ver.php on line 8
+[26-Nov-2015 20:07:20 UTC] PHP Parse error:  syntax error, unexpected '.=' (T_CONCAT_EQUAL) in /home/reremate/public_html/application/views/remate/ver.php on line 8
+[26-Nov-2015 20:07:24 UTC] PHP Parse error:  syntax error, unexpected '.=' (T_CONCAT_EQUAL) in /home/reremate/public_html/application/views/remate/ver.php on line 8
+[26-Nov-2015 20:07:42 UTC] PHP Parse error:  syntax error, unexpected '.=' (T_CONCAT_EQUAL) in /home/reremate/public_html/application/views/remate/ver.php on line 8
+[26-Nov-2015 20:08:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/reremate/public_html/application/views/header.php on line 69
+[26-Nov-2015 20:08:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/reremate/public_html/application/views/header.php on line 69
+[26-Nov-2015 21:58:57 UTC] PHP Fatal error:  Call to undefined method Remate_model::obtener_lotes_totales_del_remate() in /home/reremate/public_html/application/views/remate/menu_categorias.php on line 10
+[26-Nov-2015 22:00:11 UTC] PHP Fatal error:  Call to undefined method Remate_model::obtener_lotes_totales_por_categoria() in /home/reremate/public_html/application/views/remate/menu_categorias.php on line 10
+[26-Nov-2015 22:00:50 UTC] PHP Fatal error:  Call to undefined method Remate_model::obtener_lotes_totales_del_remate() in /home/reremate/public_html/application/views/remate/menu_categorias.php on line 10
+[26-Nov-2015 22:02:10 UTC] PHP Fatal error:  Call to undefined method Remate_model::obtener_lotes_totales_del_remate() in /home/reremate/public_html/application/views/remate/menu_categorias.php on line 10
+[27-Nov-2015 12:09:45 UTC] PHP Fatal error:  Call to undefined method Remate_model::obtener_lotes_totales_del_remate() in /home/reremate/public_html/application/views/remate/menu_categorias.php on line 10
+[27-Nov-2015 14:05:19 UTC] PHP Parse error:  syntax error, unexpected ''tipos.tipo_id, tipos.tipo_nom' (T_CONSTANT_ENCAPSED_STRING) in /home/reremate/public_html/application/models/remate_model.php on line 123
+[27-Nov-2015 15:13:42 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/reremate/public_html/application/views/remate/lotes_del_remate.php on line 64
+[27-Nov-2015 15:13:46 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/reremate/public_html/application/views/remate/lotes_del_remate.php on line 64
+[27-Nov-2015 16:29:21 UTC] PHP Fatal error:  Call to undefined method Lote_model::consultar_lote() in /home/reremate/public_html/application/controllers/lote.php on line 250
+[27-Nov-2015 16:32:14 UTC] PHP Fatal error:  Call to undefined method Lote_model::consultar_lote() in /home/reremate/public_html/application/controllers/lote.php on line 250
+[27-Nov-2015 16:32:30 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/reremate/public_html/application/views/lote/ver.php on line 8
+[27-Nov-2015 16:38:22 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/reremate/public_html/application/views/lote/ver.php on line 8
+[27-Nov-2015 19:21:23 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/reremate/public_html/application/views/lote/ver.php on line 124
+[27-Nov-2015 19:21:26 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/reremate/public_html/application/views/lote/ver.php on line 124
+[27-Nov-2015 20:45:26 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::free_result() in /home/reremate/public_html/application/models/lote_model.php on line 182
+[27-Nov-2015 20:54:20 UTC] PHP Fatal error:  Call to undefined method Lote_model::obtener_total_subastas_por_lote() in /home/reremate/public_html/application/controllers/lote.php on line 251
+[30-Nov-2015 14:35:38 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/reremate/public_html/application/views/lote/ver.php on line 275
+[30-Nov-2015 14:35:40 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/reremate/public_html/application/views/lote/ver.php on line 275
+[30-Nov-2015 15:40:05 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in /home/reremate/public_html/application/views/lote/ver.php on line 344
+[30-Nov-2015 15:40:06 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in /home/reremate/public_html/application/views/lote/ver.php on line 344
+[30-Nov-2015 15:40:07 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in /home/reremate/public_html/application/views/lote/ver.php on line 344
+[30-Nov-2015 15:53:14 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/reremate/public_html/application/views/lote/ver.php on line 344
+[30-Nov-2015 15:53:18 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/reremate/public_html/application/views/lote/ver.php on line 344
+[30-Nov-2015 15:53:34 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/reremate/public_html/application/views/lote/ver.php on line 344
+[30-Nov-2015 15:53:56 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/reremate/public_html/application/views/lote/ver.php on line 344
+[30-Nov-2015 15:54:40 UTC] PHP Parse error:  syntax error, unexpected '$th' in /home/reremate/public_html/application/models/lote_model.php on line 131
+[30-Nov-2015 15:54:41 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/reremate/public_html/application/views/lote/ver.php on line 344
+[30-Nov-2015 15:55:13 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/reremate/public_html/application/views/lote/ver.php on line 344
+[30-Nov-2015 15:55:33 UTC] PHP Fatal error:  Function name must be a string in /home/reremate/public_html/application/models/lote_model.php on line 216
+[30-Nov-2015 16:34:23 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/reremate/public_html/application/controllers/lote.php on line 259
+[30-Nov-2015 16:34:25 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/reremate/public_html/application/controllers/lote.php on line 259
+[30-Nov-2015 18:08:48 UTC] PHP Fatal error:  Class 'Remate_model' not found in /home/reremate/public_html/system/core/Loader.php on line 303
+[30-Nov-2015 18:10:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/reremate/public_html/application/controllers/remate.php on line 118
+[30-Nov-2015 18:10:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/reremate/public_html/application/controllers/remate.php on line 118
+[30-Nov-2015 18:21:56 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/reremate/public_html/application/controllers/remate.php on line 100
+[30-Nov-2015 18:22:44 UTC] PHP Fatal error:  Function name must be a string in /home/reremate/public_html/application/controllers/remate.php on line 99
+[30-Nov-2015 18:40:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/reremate/public_html/application/views/lote/ver.php on line 270
+[30-Nov-2015 18:48:18 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/reremate/public_html/application/views/remate/ver.php on line 23
+[30-Nov-2015 18:49:14 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/reremate/public_html/application/views/remate/ver.php on line 23
+[30-Nov-2015 18:49:18 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/reremate/public_html/application/views/remate/ver.php on line 23
+[30-Nov-2015 18:51:57 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/reremate/public_html/application/views/remate/ver.php on line 23
+[30-Nov-2015 18:51:59 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/reremate/public_html/application/views/remate/ver.php on line 23
+[30-Nov-2015 18:52:00 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/reremate/public_html/application/views/remate/ver.php on line 23
+[30-Nov-2015 18:52:00 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/reremate/public_html/application/views/remate/ver.php on line 23
+[30-Nov-2015 18:57:03 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/reremate/public_html/application/views/remate/ver.php on line 23
+[30-Nov-2015 18:57:55 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/reremate/public_html/application/views/remate/ver.php on line 23
+[30-Nov-2015 19:09:30 UTC] PHP Parse error:  syntax error, unexpected '$numero_remate' (T_VARIABLE) in /home/reremate/public_html/application/views/remate/ver.php on line 21
+[30-Nov-2015 19:24:21 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/reremate/public_html/application/views/remate/ver.php on line 20
+[30-Nov-2015 19:29:53 UTC] PHP Parse error:  syntax error, unexpected '.=' (T_CONCAT_EQUAL) in /home/reremate/public_html/application/views/remate/ver.php on line 20
+[30-Nov-2015 19:36:22 UTC] PHP Fatal error:  Call to undefined function mdate() in /home/reremate/public_html/application/views/lote/ver.php on line 330
+[30-Nov-2015 19:36:24 UTC] PHP Fatal error:  Call to undefined function mdate() in /home/reremate/public_html/application/views/lote/ver.php on line 330
+[30-Nov-2015 19:36:46 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/reremate/public_html/application/views/lote/ver.php on line 334
+[30-Nov-2015 19:36:48 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/reremate/public_html/application/views/lote/ver.php on line 334
+[30-Nov-2015 19:37:05 UTC] PHP Fatal error:  Call to undefined function mdate() in /home/reremate/public_html/application/views/lote/ver.php on line 330
+[30-Nov-2015 19:38:52 UTC] PHP Fatal error:  Call to undefined function mdate() in /home/reremate/public_html/application/views/lote/ver.php on line 336
+[30-Nov-2015 19:39:21 UTC] PHP Fatal error:  Call to undefined function mdate() in /home/reremate/public_html/application/views/lote/ver.php on line 336
+[30-Nov-2015 19:39:23 UTC] PHP Fatal error:  Call to undefined function mdate() in /home/reremate/public_html/application/views/lote/ver.php on line 336
+[30-Nov-2015 19:40:05 UTC] PHP Fatal error:  Call to undefined function mdate() in /home/reremate/public_html/application/views/lote/ver.php on line 334
+[30-Nov-2015 19:40:07 UTC] PHP Fatal error:  Call to undefined function mdate() in /home/reremate/public_html/application/views/lote/ver.php on line 334
+[30-Nov-2015 19:40:25 UTC] PHP Fatal error:  Call to undefined function mdate() in /home/reremate/public_html/application/views/lote/ver.php on line 334
+[30-Nov-2015 19:42:58 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/reremate/public_html/application/views/lote/ver.php on line 336
+[30-Nov-2015 19:43:13 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/reremate/public_html/application/views/lote/ver.php on line 335
+[30-Nov-2015 19:43:15 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/reremate/public_html/application/views/lote/ver.php on line 335
+[30-Nov-2015 19:43:57 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/reremate/public_html/application/views/lote/ver.php on line 337
+[30-Nov-2015 20:01:38 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/reremate/public_html/application/views/remate/ver.php on line 20
+[30-Nov-2015 20:01:57 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/reremate/public_html/application/views/remate/ver.php on line 20
+[30-Nov-2015 20:46:06 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/reremate/public_html/application/controllers/remate.php on line 48
+[30-Nov-2015 21:36:34 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[30-Nov-2015 21:36:34 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[30-Nov-2015 21:44:14 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[30-Nov-2015 21:44:16 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[01-Dec-2015 12:15:39 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[01-Dec-2015 12:15:39 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[01-Dec-2015 13:18:45 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected end of file in /home/reremate/public_html/application/views/lote/ver.php on line 459
+[01-Dec-2015 13:36:20 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected end of file in /home/reremate/public_html/application/views/lote/ver.php on line 325
+[01-Dec-2015 13:36:22 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected end of file in /home/reremate/public_html/application/views/lote/ver.php on line 343
+[01-Dec-2015 18:19:27 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[01-Dec-2015 18:19:27 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 63
+[01-Dec-2015 18:41:08 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[01-Dec-2015 18:41:08 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[01-Dec-2015 18:51:52 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[01-Dec-2015 18:52:02 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[01-Dec-2015 18:54:29 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[01-Dec-2015 18:59:48 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[01-Dec-2015 18:59:48 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[01-Dec-2015 18:59:53 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[01-Dec-2015 18:59:54 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[01-Dec-2015 19:25:49 UTC] PHP Fatal error:  Function name must be a string in /home/reremate/public_html/application/views/lote/seleccionar.php on line 56
+[01-Dec-2015 19:25:55 UTC] PHP Fatal error:  Function name must be a string in /home/reremate/public_html/application/views/lote/seleccionar.php on line 56
+[01-Dec-2015 19:25:57 UTC] PHP Fatal error:  Function name must be a string in /home/reremate/public_html/application/views/lote/seleccionar.php on line 56
+[01-Dec-2015 19:26:21 UTC] PHP Fatal error:  Function name must be a string in /home/reremate/public_html/application/views/lote/seleccionar.php on line 56
+[01-Dec-2015 19:42:00 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[01-Dec-2015 19:42:01 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[01-Dec-2015 19:44:40 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[01-Dec-2015 19:44:41 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[01-Dec-2015 19:45:13 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[01-Dec-2015 19:46:41 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[01-Dec-2015 19:46:41 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[01-Dec-2015 20:01:15 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[01-Dec-2015 20:01:16 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[01-Dec-2015 20:01:24 UTC] PHP Fatal error:  Call to undefined method CI_Loader::site_url() in /home/reremate/public_html/application/controllers/lote.php on line 227
+[01-Dec-2015 20:02:18 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[01-Dec-2015 20:02:18 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[01-Dec-2015 20:02:23 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[01-Dec-2015 20:02:27 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[01-Dec-2015 20:03:32 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[01-Dec-2015 20:03:44 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[01-Dec-2015 20:04:56 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[01-Dec-2015 20:04:57 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[01-Dec-2015 20:09:51 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[01-Dec-2015 20:09:51 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[01-Dec-2015 20:10:04 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[01-Dec-2015 20:10:04 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[01-Dec-2015 20:11:06 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[01-Dec-2015 20:11:07 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[01-Dec-2015 20:54:18 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[01-Dec-2015 20:54:18 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[01-Dec-2015 20:54:20 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[01-Dec-2015 21:02:47 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[01-Dec-2015 21:02:48 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[01-Dec-2015 21:26:34 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[01-Dec-2015 21:26:34 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[01-Dec-2015 21:26:40 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[01-Dec-2015 21:26:40 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[01-Dec-2015 21:37:01 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[01-Dec-2015 21:37:01 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[02-Dec-2015 14:27:11 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[02-Dec-2015 14:27:12 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[02-Dec-2015 14:27:20 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[02-Dec-2015 14:27:20 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[02-Dec-2015 14:47:50 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[02-Dec-2015 14:47:53 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[02-Dec-2015 14:48:05 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[02-Dec-2015 14:48:05 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[02-Dec-2015 15:49:57 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[02-Dec-2015 15:49:57 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[02-Dec-2015 15:50:02 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[02-Dec-2015 15:50:02 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[02-Dec-2015 16:30:00 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[02-Dec-2015 16:30:01 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[02-Dec-2015 16:30:10 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[02-Dec-2015 16:30:10 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[02-Dec-2015 16:40:14 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[02-Dec-2015 16:40:14 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[02-Dec-2015 16:40:19 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[02-Dec-2015 16:40:19 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[02-Dec-2015 19:01:03 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[02-Dec-2015 19:01:03 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[02-Dec-2015 19:01:08 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[02-Dec-2015 19:01:08 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[02-Dec-2015 19:33:01 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[02-Dec-2015 19:33:01 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[02-Dec-2015 19:33:10 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[02-Dec-2015 19:33:10 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[02-Dec-2015 20:33:37 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[02-Dec-2015 20:33:37 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[02-Dec-2015 20:33:44 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[02-Dec-2015 20:33:44 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[02-Dec-2015 20:43:43 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[02-Dec-2015 20:43:43 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[02-Dec-2015 20:43:47 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[02-Dec-2015 20:43:47 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[02-Dec-2015 21:06:34 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[02-Dec-2015 21:06:34 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[02-Dec-2015 21:06:42 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[02-Dec-2015 21:06:42 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[02-Dec-2015 21:10:00 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[02-Dec-2015 21:10:01 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[02-Dec-2015 21:10:09 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[02-Dec-2015 21:10:09 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[02-Dec-2015 21:25:54 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[02-Dec-2015 21:25:54 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[02-Dec-2015 21:25:59 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[02-Dec-2015 21:26:00 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[02-Dec-2015 21:43:05 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[02-Dec-2015 21:43:05 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[02-Dec-2015 21:43:11 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[02-Dec-2015 21:43:11 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[03-Dec-2015 13:00:04 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[03-Dec-2015 15:06:44 UTC] PHP Parse error:  syntax error, unexpected '"Validacion correcta :)"' (T_CONSTANT_ENCAPSED_STRING) in /home/reremate/public_html/application/controllers/rematador.php on line 45
+[03-Dec-2015 16:45:33 UTC] PHP Fatal error:  Call to undefined method Rematador_model::consultar_correo_existente() in /home/reremate/public_html/application/controllers/rematador.php on line 23
+[03-Dec-2015 16:45:33 UTC] PHP Fatal error:  Call to undefined method Rematador_model::consultar_correo_existente() in /home/reremate/public_html/application/controllers/rematador.php on line 23
+[03-Dec-2015 16:50:36 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/reremate/public_html/application/controllers/rematador.php on line 74
+[03-Dec-2015 17:01:49 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/reremate/public_html/application/controllers/rematador.php on line 21
+[03-Dec-2015 17:02:06 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/reremate/public_html/application/controllers/rematador.php on line 21
+[03-Dec-2015 17:02:07 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/reremate/public_html/application/controllers/rematador.php on line 21
+[03-Dec-2015 18:46:21 UTC] PHP Parse error:  syntax error, unexpected '>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/reremate/public_html/application/controllers/rematador.php on line 18
+[03-Dec-2015 19:21:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/reremate/public_html/application/views/rematador/registrar.php on line 21
+[03-Dec-2015 17:48:27 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/reremate/public_html/application/views/lote/ver.php on line 174
+[03-Dec-2015 17:48:29 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/reremate/public_html/application/views/lote/ver.php on line 174
+[03-Dec-2015 17:51:32 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function format_fecha() in /home/reremate/public_html/application/views/lote/ver.php on line 174
+[03-Dec-2015 17:51:36 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function format_fecha() in /home/reremate/public_html/application/views/lote/ver.php on line 174
+[03-Dec-2015 17:51:41 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function format_fecha() in /home/reremate/public_html/application/views/lote/ver.php on line 174
+[03-Dec-2015 17:52:57 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function format_fecha() in /home/reremate/public_html/application/views/lote/ver.php on line 174
+[03-Dec-2015 17:54:08 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function format_fecha() in /home/reremate/public_html/application/views/lote/ver.php on line 174
+[03-Dec-2015 17:54:44 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function format_fecha() in /home/reremate/public_html/application/views/lote/ver.php on line 174
+[03-Dec-2015 17:54:46 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function format_fecha() in /home/reremate/public_html/application/views/lote/ver.php on line 174
+[03-Dec-2015 21:38:48 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[03-Dec-2015 21:38:48 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[03-Dec-2015 21:38:59 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[03-Dec-2015 21:38:59 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[03-Dec-2015 21:52:01 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[04-Dec-2015 11:23:02 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[04-Dec-2015 11:24:46 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected end of file in /home/reremate/public_html/application/views/lote/ver.php on line 378
+[04-Dec-2015 11:24:52 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[04-Dec-2015 11:34:28 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[04-Dec-2015 11:34:28 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[04-Dec-2015 11:51:29 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting variable (T_VARIABLE) or '$' in /home/reremate/public_html/application/views/lote/ver.php on line 123
+[04-Dec-2015 12:47:48 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[04-Dec-2015 12:50:27 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[04-Dec-2015 12:50:27 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[04-Dec-2015 13:29:09 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '">' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/reremate/public_html/application/views/lote/ver.php on line 125
+[04-Dec-2015 13:29:49 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected end of file in /home/reremate/public_html/application/views/lote/ver.php on line 357
+[04-Dec-2015 13:29:52 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected end of file in /home/reremate/public_html/application/views/lote/ver.php on line 398
+[04-Dec-2015 13:37:06 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected end of file in /home/reremate/public_html/application/views/lote/ver.php on line 400
+[04-Dec-2015 13:37:09 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected end of file in /home/reremate/public_html/application/views/lote/ver.php on line 400
+[04-Dec-2015 16:07:49 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected end of file in /home/reremate/public_html/application/views/lote/ver.php on line 361
+[04-Dec-2015 16:07:53 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected end of file in /home/reremate/public_html/application/views/lote/ver.php on line 361
+[04-Dec-2015 16:08:08 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected end of file in /home/reremate/public_html/application/views/lote/ver.php on line 361
+[07-Dec-2015 16:50:53 UTC] PHP Fatal error:  Call to undefined method Rematador::quitaAcentos() in /home/reremate/public_html/application/controllers/rematador.php on line 30
+[09-Dec-2015 16:20:13 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[09-Dec-2015 16:20:13 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[09-Dec-2015 16:21:24 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[09-Dec-2015 16:21:25 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[09-Dec-2015 19:29:54 UTC] PHP Parse error:  syntax error, unexpected '$nombre_foto_adjunta' (T_VARIABLE), expecting function (T_FUNCTION) in /home/reremate/public_html/application/controllers/rematador.php on line 4
+[09-Dec-2015 19:30:40 UTC] PHP Parse error:  syntax error, unexpected '$nombre_foto_adjunta' (T_VARIABLE), expecting function (T_FUNCTION) in /home/reremate/public_html/application/controllers/rematador.php on line 4
+[09-Dec-2015 19:30:56 UTC] PHP Parse error:  syntax error, unexpected '$nombre_foto_adjunta' (T_VARIABLE), expecting function (T_FUNCTION) in /home/reremate/public_html/application/controllers/rematador.php on line 4
+[09-Dec-2015 20:40:17 UTC] PHP Parse error:  syntax error, unexpected ''rematador_estado'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/reremate/public_html/application/models/rematador_model.php on line 76
+[09-Dec-2015 20:41:02 UTC] PHP Fatal error:  Class 'Rematador_model' not found in /home/reremate/public_html/system/core/Loader.php on line 303
+[09-Dec-2015 21:59:58 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/reremate/public_html/application/controllers/rematador.php on line 178
+[10-Dec-2015 12:58:15 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[10-Dec-2015 12:58:16 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[10-Dec-2015 12:58:17 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[10-Dec-2015 13:00:15 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[10-Dec-2015 13:00:15 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[10-Dec-2015 13:00:20 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[10-Dec-2015 21:39:12 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/reremate/public_html/application/models/gadget_model.php on line 5
+[21-Dec-2015 18:57:45 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/reremate/public_html/application/controllers/inicio.php on line 5
+[21-Dec-2015 19:02:58 UTC] PHP Fatal error:  Call to undefined method Gadget_model::obtener_remates_por_pagina() in /home/reremate/public_html/application/controllers/inicio.php on line 18
+[22-Dec-2015 16:22:26 UTC] PHP Fatal error:  Class 'Lote_model' not found in /home/reremate/public_html/system/core/Loader.php on line 303
+[22-Dec-2015 13:27:40 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/reremate/public_html/application/views/lote/ver.php on line 298
+[22-Dec-2015 18:30:45 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/reremate/public_html/application/models/lote_model.php on line 290
+[22-Dec-2015 18:30:48 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/reremate/public_html/application/models/lote_model.php on line 290
+[05-Jan-2016 13:39:08 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '{' in /home/reremate/public_html/application/views/lote/ver.php on line 276
+[05-Jan-2016 17:09:39 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected ';' in /home/reremate/public_html/application/views/lote/ver.php on line 203
+[05-Jan-2016 17:10:14 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '?>' in /home/reremate/public_html/application/views/lote/ver.php on line 203
+[06-Jan-2016 16:42:26 UTC] PHP Fatal error:  Call to a member function actualizar_remates() on a non-object in /home/reremate/public_html/application/controllers/inicio.php on line 8
+[06-Jan-2016 16:43:53 UTC] PHP Fatal error:  Call to private method Inicio_model::actualizar_remates() from context 'Inicio' in /home/reremate/public_html/application/controllers/inicio.php on line 8
+[19-Jan-2016 21:27:05 UTC] PHP Fatal error:  Call to undefined method Rematador::_view() in /home/reremate/public_html/application/controllers/rematador.php on line 141
+[20-Jan-2016 14:50:28 UTC] PHP Fatal error:  Cannot redeclare Auth::__construct() in /home/reremate/public_html/application/libraries/auth.php on line 29
+[20-Jan-2016 18:41:56 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/reremate/public_html/application/controllers/rematador.php on line 199
+[20-Jan-2016 18:43:42 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/reremate/public_html/application/controllers/rematador.php on line 199
+[20-Jan-2016 18:44:42 UTC] PHP Fatal error:  Call to undefined method Rematador_model::obtener_id_del_rematador_por_token() in /home/reremate/public_html/application/controllers/rematador.php on line 169
+[20-Jan-2016 20:14:55 UTC] PHP Fatal error:  Class 'Rematador_model' not found in /home/reremate/public_html/system/core/Loader.php on line 303
+[21-Jan-2016 12:11:49 UTC] PHP Fatal error:  Call to undefined method Ofertante::_view() in /home/reremate/public_html/application/controllers/ofertante.php on line 119
+[21-Jan-2016 12:24:23 UTC] PHP Fatal error:  Call to undefined method Ofertante::_view() in /home/reremate/public_html/application/controllers/ofertante.php on line 119
+[21-Jan-2016 12:41:22 UTC] PHP Fatal error:  Call to undefined method Ofertante::_view() in /home/reremate/public_html/application/controllers/ofertante.php on line 119
+[26-Jan-2016 11:10:04 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[26-Jan-2016 11:10:04 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[26-Jan-2016 11:27:37 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[26-Jan-2016 11:27:39 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[29-Jan-2016 20:28:05 UTC] PHP Fatal error:  Call to a member function get_where() on a non-object in /home/reremate/public_html/application/controllers/rematador.php on line 186
+[02-Feb-2016 13:04:19 UTC] PHP Fatal error:  Call to undefined method CI_Loader::_view() in /home/reremate/public_html/application/controllers/rematador.php on line 176
+[02-Feb-2016 13:04:21 UTC] PHP Fatal error:  Call to undefined method CI_Loader::_view() in /home/reremate/public_html/application/controllers/rematador.php on line 176
+[02-Feb-2016 19:41:22 UTC] PHP Fatal error:  Call to undefined method CI_Loader::_view() in /home/reremate/public_html/application/controllers/rematador.php on line 177
+[03-Feb-2016 21:38:37 UTC] PHP Fatal error:  Call to undefined method Ofertante_model::obtener_id_del_ofertante_por_token_activacion() in /home/reremate/public_html/application/controllers/ofertante.php on line 139
+[03-Feb-2016 21:41:45 UTC] PHP Fatal error:  Call to undefined method Ofertante_model::actualizar_activacion() in /home/reremate/public_html/application/controllers/ofertante.php on line 142
+[04-Feb-2016 13:55:05 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 57
+[04-Feb-2016 15:30:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 58
+[04-Feb-2016 15:43:05 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 58
+[04-Feb-2016 15:44:46 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 58
+[04-Feb-2016 15:44:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 58
+[04-Feb-2016 15:45:39 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 58
+[04-Feb-2016 15:45:41 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 58
+[04-Feb-2016 15:48:25 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 58
+[04-Feb-2016 15:50:32 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 58
+[04-Feb-2016 19:28:10 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/reremate/public_html/application/views/gadgets/subastas_disponibles.php on line 24
+[04-Feb-2016 19:34:35 UTC] PHP Fatal error:  Call to undefined method CI_Loader::acortarTexto() in /home/reremate/public_html/application/views/gadgets/subastas_disponibles.php on line 23
+[04-Feb-2016 19:48:56 UTC] PHP Parse error:  syntax error, unexpected '$rd' (T_VARIABLE), expecting ',' or ';' in /home/reremate/public_html/application/views/gadgets/subastas_disponibles.php on line 23
+[04-Feb-2016 21:18:38 UTC] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING) in /home/reremate/public_html/application/views/gadgets/subastas_disponibles.php on line 33
+[04-Feb-2016 21:19:32 UTC] PHP Fatal error:  Cannot redeclare truncateString() (previously declared in /home/reremate/public_html/application/views/gadgets/subastas_disponibles.php:24) in /home/reremate/public_html/application/views/gadgets/subastas_disponibles.php on line 24
+[05-Feb-2016 12:58:19 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[05-Feb-2016 12:58:19 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[08-Feb-2016 09:26:10 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[08-Feb-2016 09:26:10 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[08-Feb-2016 15:52:14 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/seleccionar.php on line 58
+[08-Feb-2016 17:19:21 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[08-Feb-2016 17:19:22 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[08-Feb-2016 17:20:21 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[08-Feb-2016 17:29:27 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[08-Feb-2016 17:29:28 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 64
+[08-Feb-2016 17:56:27 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 82
+[08-Feb-2016 17:56:46 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 82
+[08-Feb-2016 17:57:21 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 82
+[08-Feb-2016 17:57:55 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 82
+[08-Feb-2016 17:57:56 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/lote/ingresar.php on line 82
+[09-Feb-2016 19:13:30 UTC] PHP Fatal error:  Call to undefined method Remate_model::obtener_rematador_del_remate() in /home/reremate/public_html/application/views/remate/ver_lotes.php on line 8
+[10-Feb-2016 15:51:49 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/reremate/public_html/application/views/ofertante/panel_de_control.php on line 31
+[10-Feb-2016 15:51:52 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/reremate/public_html/application/views/ofertante/panel_de_control.php on line 31
+[10-Feb-2016 15:54:20 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/reremate/public_html/application/views/ofertante/panel_de_control.php on line 32
+[10-Feb-2016 15:54:37 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/reremate/public_html/application/views/ofertante/panel_de_control.php on line 33
+[11-Feb-2016 16:22:38 UTC] PHP Fatal error:  Call to undefined method Remate_model::obtener_totales_de_tipo_de_la_categoria() in /home/reremate/public_html/application/views/categoria/menu_categorias.php on line 49
+[11-Feb-2016 16:24:26 UTC] PHP Fatal error:  Class 'Categoria_model' not found in /home/reremate/public_html/system/core/Loader.php on line 303
+[15-Feb-2016 21:12:24 UTC] PHP Parse error:  syntax error, unexpected '$' in /home/reremate/public_html/application/views/remate/ver.php on line 55
+[16-Feb-2016 18:25:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/reremate/public_html/application/views/remate/catalogo.php on line 62
+[16-Feb-2016 18:26:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/reremate/public_html/application/views/remate/catalogo.php on line 62
+[16-Feb-2016 18:26:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/reremate/public_html/application/views/remate/catalogo.php on line 62
+[16-Feb-2016 18:55:24 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/remate/catalogo.php on line 49
+[16-Feb-2016 19:02:23 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/reremate/public_html/application/views/remate/catalogo.php on line 49
+[16-Feb-2016 19:26:19 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/reremate/public_html/application/views/remate/catalogo.php on line 37
+[22-Feb-2016 20:46:25 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/reremate/public_html/application/controllers/remate.php on line 94
+[22-Feb-2016 21:39:56 UTC] PHP Fatal error:  Class 'Lote_model' not found in /home/reremate/public_html/system/core/Loader.php on line 303
+[23-Feb-2016 16:25:29 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '$item' (T_VARIABLE), expecting '(' in /home/reremate/public_html/application/views/lote/ver.php on line 134
+[25-Feb-2016 21:21:43 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/reremate/public_html/application/models/categoria_model.php on line 268
+[25-Feb-2016 21:21:46 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/reremate/public_html/application/models/categoria_model.php on line 268
+[25-Feb-2016 21:21:51 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/reremate/public_html/application/models/categoria_model.php on line 268
+[01-Mar-2016 13:45:53 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/reremate/public_html/application/views/remate/ver.php on line 101
+[01-Mar-2016 13:49:38 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/reremate/public_html/application/views/remate/ver.php on line 101
+[01-Mar-2016 13:49:40 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/reremate/public_html/application/views/remate/ver.php on line 101
+[01-Mar-2016 13:49:58 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/reremate/public_html/application/views/remate/ver.php on line 101
+[01-Mar-2016 16:39:21 UTC] PHP Fatal error:  Class 'Remate_model' not found in /home/reremate/public_html/system/core/Loader.php on line 303
+[08-Apr-2016 17:04:33 UTC] PHP Fatal error:  Call to undefined method Ofertante_model::consultar_nick_existente() in /home/reremate/public_html/application/controllers/ofertante.php on line 51
+[12-Apr-2016 03:45:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rsiauctions/public_html/application/controllers/remate.php on line 162
+[12-Apr-2016 10:07:36 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected end of file in /home/rsiauctions/public_html/application/views/lote/ver.php on line 327
+[12-Apr-2016 16:32:46 UTC] PHP Fatal error:  Call to undefined method Remate_model::obtener_remate_por_lote() in /home/rsiauctions/public_html/application/controllers/garantia.php on line 57
+[12-Apr-2016 16:40:43 UTC] PHP Fatal error:  Call to undefined method Remate_model::obtener_remate_por_id() in /home/rsiauctions/public_html/application/controllers/garantia.php on line 57
+[12-Apr-2016 19:10:28 UTC] PHP Fatal error:  Call to undefined method Garantia::subir_adjunto_archivo() in /home/rsiauctions/public_html/application/controllers/garantia.php on line 56
+[12-Apr-2016 19:11:34 UTC] PHP Fatal error:  Call to undefined function quitarAcentos() in /home/rsiauctions/public_html/application/controllers/garantia.php on line 35
+[12-Apr-2016 19:12:06 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rsiauctions/public_html/application/helpers/imacom_helper.php on line 141
+[12-Apr-2016 19:12:09 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rsiauctions/public_html/application/helpers/imacom_helper.php on line 141
+[12-Apr-2016 19:12:12 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rsiauctions/public_html/application/helpers/imacom_helper.php on line 141
+[12-Apr-2016 19:19:00 UTC] PHP Fatal error:  Call to undefined function set_realpath() in /home/rsiauctions/public_html/application/controllers/garantia.php on line 26
+[12-Apr-2016 19:40:59 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rsiauctions/public_html/application/controllers/garantia.php on line 67
+[12-Apr-2016 19:41:15 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rsiauctions/public_html/application/controllers/garantia.php on line 67
+[12-Apr-2016 19:54:24 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rsiauctions/public_html/application/controllers/garantia.php on line 69
+[12-Apr-2016 19:54:32 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rsiauctions/public_html/application/controllers/garantia.php on line 69
+[12-Apr-2016 20:14:04 UTC] PHP Fatal error:  Call to a member function ingresar_garantia() on a non-object in /home/rsiauctions/public_html/application/controllers/garantia.php on line 87
+[12-Apr-2016 20:46:53 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rsiauctions/public_html/application/controllers/garantia.php on line 80
+[12-Apr-2016 20:48:16 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rsiauctions/public_html/application/controllers/garantia.php on line 80
+[12-Apr-2016 21:22:36 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/rsiauctions/public_html/application/controllers/garantia.php on line 113
+[12-Apr-2016 21:25:34 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/rsiauctions/public_html/application/controllers/garantia.php on line 112
+[12-Apr-2016 21:27:30 UTC] PHP Fatal error:  Call to undefined method Garantia_model::obtener_todas_las_garantias() in /home/rsiauctions/public_html/application/controllers/garantia.php on line 110
+[12-Apr-2016 21:34:03 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rsiauctions/public_html/application/views/remate/editar.php on line 23
+[12-Apr-2016 21:34:09 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rsiauctions/public_html/application/views/remate/editar.php on line 23
+[12-Apr-2016 21:34:38 UTC] PHP Fatal error:  Call to undefined function echobase_url() in /home/rsiauctions/public_html/application/views/remate/editar.php on line 67
+[12-Apr-2016 21:35:11 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/rsiauctions/public_html/application/views/garantia/panel.php on line 6
+[12-Apr-2016 21:55:50 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::activar_ofertante() in /home/rsiauctions/public_html/application/controllers/garantia.php on line 128
+[12-Apr-2016 21:56:52 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::activar_ofertante() in /home/rsiauctions/public_html/application/controllers/garantia.php on line 128
+[12-Apr-2016 21:57:08 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::activar_ofertante() in /home/rsiauctions/public_html/application/controllers/garantia.php on line 128
+[13-Apr-2016 02:33:52 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/rsiauctions/public_html/application/views/lote/editar.php on line 52
+[13-Apr-2016 03:06:01 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/rsiauctions/public_html/application/views/lote/editar.php on line 75
+[13-Apr-2016 09:47:41 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected end of file in /home/rsiauctions/public_html/application/views/lote/editar.php on line 69
+[13-Apr-2016 09:49:54 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rsiauctions/public_html/application/views/lote/ver.php on line 451
+[13-Apr-2016 09:54:06 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected end of file in /home/rsiauctions/public_html/application/views/lote/ingresar.php on line 79
+[13-Apr-2016 10:07:27 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/rsiauctions/public_html/application/views/lote/editar.php on line 151
+[13-Apr-2016 10:07:31 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/rsiauctions/public_html/application/views/lote/editar.php on line 151
+[13-Apr-2016 10:08:09 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function result() on a non-object in /home/rsiauctions/public_html/application/views/lote/editar.php on line 151
+[13-Apr-2016 10:17:21 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '{' in /home/rsiauctions/public_html/application/views/lote/editar.php on line 152
+[13-Apr-2016 10:17:24 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '{' in /home/rsiauctions/public_html/application/views/lote/editar.php on line 152
+[20-Apr-2016 15:57:38 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/imacomremate/public_html/application/controllers/lote.php on line 174
+[20-Apr-2016 16:06:48 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/imacomremate/public_html/application/controllers/lote.php on line 300
+[20-Apr-2016 16:07:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/imacomremate/public_html/application/controllers/lote.php on line 86
+[20-Apr-2016 13:33:25 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined method CI_Loader::spark() in /home/imacomremate/public_html/application/controllers/lote.php on line 379
+[21-Apr-2016 18:51:49 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/tipo_categoria/administrar_tipo_categoria.php on line 6
+[21-Apr-2016 20:25:23 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/tipo_categoria/administrar_tipo_categoria.php on line 6
+[22-Apr-2016 12:36:22 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/tipo_categoria/administrar_tipo_categoria.php on line 6
+[25-Apr-2016 12:38:03 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/tipo_categoria/administrar_tipo_categoria.php on line 6
+[26-Apr-2016 12:00:55 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/tipo_categoria/administrar_tipo_categoria.php on line 6
+[26-Apr-2016 12:32:10 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/tipo_categoria/administrar_tipo_categoria.php on line 6
+[26-Apr-2016 14:08:50 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/tipo_categoria/administrar_tipo_categoria.php on line 6
+[27-Apr-2016 12:18:35 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/tipo_categoria/administrar_tipo_categoria.php on line 6
+[27-Apr-2016 21:16:10 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 39
+[27-Apr-2016 21:16:56 UTC] PHP Fatal error:  Call to undefined method Categoria_model::obtener_nombre_tipo_categoria() in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 39
+[27-Apr-2016 21:19:41 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 40
+[27-Apr-2016 21:34:15 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[27-Apr-2016 21:36:33 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[27-Apr-2016 21:39:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 58
+[27-Apr-2016 21:39:10 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[27-Apr-2016 21:42:51 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[27-Apr-2016 21:42:56 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[27-Apr-2016 21:44:44 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[27-Apr-2016 21:44:51 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[27-Apr-2016 21:54:33 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[28-Apr-2016 12:02:42 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[28-Apr-2016 12:02:50 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/tipo_categoria/administrar_tipo_categoria.php on line 6
+[28-Apr-2016 13:23:06 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/tipo_categoria/administrar_tipo_categoria.php on line 6
+[28-Apr-2016 13:40:39 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/tipo_categoria/administrar_tipo_categoria.php on line 6
+[28-Apr-2016 13:41:25 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/tipo_categoria/administrar_tipo_categoria.php on line 6
+[28-Apr-2016 13:44:56 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[28-Apr-2016 13:46:09 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[28-Apr-2016 13:46:13 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[28-Apr-2016 13:59:08 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[28-Apr-2016 14:00:48 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[28-Apr-2016 14:00:49 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[28-Apr-2016 14:00:51 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[28-Apr-2016 14:07:26 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[28-Apr-2016 15:00:15 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[28-Apr-2016 15:00:55 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[28-Apr-2016 15:09:49 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[28-Apr-2016 15:09:52 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[28-Apr-2016 15:15:38 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[28-Apr-2016 15:15:42 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[28-Apr-2016 15:17:05 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[28-Apr-2016 15:17:09 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[28-Apr-2016 15:17:12 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[28-Apr-2016 15:17:15 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[28-Apr-2016 15:17:19 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[28-Apr-2016 15:17:21 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 41
+[28-Apr-2016 19:17:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/imacomremate/public_html/application/views/categoria/administrar_categorias.php on line 64
+[28-Apr-2016 20:03:22 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/tipo_categoria/administrar_tipo_categoria.php on line 6
+[02-May-2016 12:34:37 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/tipo_categoria/administrar_tipo_categoria.php on line 6
+[10-May-2016 20:23:08 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/tipo_categoria/administrar_tipo_categoria.php on line 6
+[11-May-2016 13:13:30 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/tipo_categoria/administrar_tipo_categoria.php on line 6
+[11-May-2016 13:39:26 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/tipo_categoria/administrar_tipo_categoria.php on line 6
+[11-May-2016 15:00:03 UTC] PHP Fatal error:  Cannot redeclare Lote::subir_csv() in /home/imacomremate/public_html/application/controllers/lote.php on line 342
+[11-May-2016 15:03:23 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/imacomremate/public_html/application/views/tipo_categoria/administrar_tipo_categoria.php on line 7
+[11-May-2016 15:05:56 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/tipo_categoria/administrar_tipo_categoria.php on line 27
+[11-May-2016 15:27:04 UTC] PHP Fatal error:  Cannot redeclare Lote::subir_adjunto_archivo() in /home/imacomremate/public_html/application/controllers/lote.php on line 324
+[11-May-2016 15:29:06 UTC] PHP Fatal error:  Cannot redeclare Lote::subir_adjunto_archivo() in /home/imacomremate/public_html/application/controllers/lote.php on line 324
+[11-May-2016 15:44:11 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/tipo_categoria/administrar_tipo_categoria.php on line 27
+[11-May-2016 15:57:45 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/imacomremate/public_html/application/controllers/lote.php on line 350
+[11-May-2016 16:11:39 UTC] PHP Fatal error:  Call to a member function obtener_una_categoria() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 40
+[11-May-2016 16:19:42 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 43
+[11-May-2016 16:25:27 UTC] PHP Parse error:  syntax error, unexpected ''U' (T_ENCAPSED_AND_WHITESPACE) in /home/imacomremate/public_html/application/controllers/lote.php on line 447
+[11-May-2016 13:38:10 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected ''] ?></td>' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/imacomremate/public_html/application/views/view_csv.php on line 18
+[11-May-2016 19:22:24 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/tipo_categoria/administrar_tipo_categoria.php on line 34
+[11-May-2016 19:27:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/imacomremate/public_html/application/views/tipo_categoria/administrar_tipo_categoria.php on line 32
+[16-May-2016 17:02:07 UTC] PHP Fatal error:  Call to a member function validar_existencia_del_tipo() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 94
+[16-May-2016 17:39:11 UTC] PHP Fatal error:  Call to undefined method Tipo_categoria_model::obtener_una_categoria() in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 135
+[16-May-2016 20:21:56 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/application/models/lote_model.php on line 34
+[16-May-2016 20:23:26 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/imacomremate/public_html/application/models/remate_model.php on line 20
+[16-May-2016 20:24:48 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/application/models/lote_model.php on line 7
+[16-May-2016 20:25:34 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/imacomremate/public_html/application/models/rematador_model.php on line 51
+[16-May-2016 20:26:47 UTC] PHP Fatal error:  Class 'Remate_model' not found in /home/imacomremate/public_html/system/core/Loader.php on line 303
+[16-May-2016 20:28:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/imacomremate/public_html/application/models/remate_model.php on line 303
+[16-May-2016 20:29:35 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/imacomremate/public_html/application/models/lote_model.php on line 6
+[16-May-2016 20:30:21 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/imacomremate/public_html/application/models/lote_model.php on line 7
+[16-May-2016 20:31:17 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/imacomremate/public_html/application/models/lote_model.php on line 7
+[16-May-2016 21:35:45 UTC] PHP Fatal error:  Call to a member function row() on a non-object in /home/imacomremate/public_html/application/models/tipo_categoria_model.php on line 175
+[16-May-2016 21:36:36 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 131
+[16-May-2016 21:36:37 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 131
+[16-May-2016 21:43:49 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 131
+[16-May-2016 21:43:49 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 131
+[16-May-2016 21:45:15 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 131
+[16-May-2016 21:45:17 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 131
+[16-May-2016 21:46:31 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 131
+[16-May-2016 21:46:31 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 131
+[16-May-2016 21:48:08 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[16-May-2016 21:48:11 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[16-May-2016 21:48:13 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[16-May-2016 21:48:13 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[16-May-2016 21:49:28 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[16-May-2016 21:49:28 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[16-May-2016 21:54:03 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[16-May-2016 21:54:03 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[16-May-2016 21:55:41 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[16-May-2016 21:55:41 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[16-May-2016 22:00:05 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[16-May-2016 22:00:05 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[16-May-2016 22:00:44 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[16-May-2016 22:00:44 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[16-May-2016 22:07:27 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[16-May-2016 22:07:28 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[16-May-2016 22:07:44 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[16-May-2016 22:07:44 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[16-May-2016 22:09:12 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[16-May-2016 22:09:12 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[17-May-2016 13:42:31 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/tipo_categoria/administrar_tipo_categoria.php on line 29
+[17-May-2016 14:05:32 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/marca_categoria.php on line 132
+[17-May-2016 14:05:32 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/marca_categoria.php on line 132
+[17-May-2016 16:11:41 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/tipo_categoria/administrar_tipo_categoria.php on line 29
+[17-May-2016 16:12:04 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/marca_categoria/administrar_marca_categoria.php on line 29
+[17-May-2016 16:12:28 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/tipo_categoria/administrar_tipo_categoria.php on line 29
+[17-May-2016 16:15:31 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[17-May-2016 16:15:31 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[17-May-2016 19:39:18 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/tipo_categoria/administrar_tipo_categoria.php on line 29
+[17-May-2016 19:39:19 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/marca_categoria/administrar_marca_categoria.php on line 29
+[17-May-2016 19:52:03 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/tipo_categoria/administrar_tipo_categoria.php on line 29
+[17-May-2016 19:52:06 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/marca_categoria/administrar_marca_categoria.php on line 29
+[17-May-2016 20:37:50 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[17-May-2016 20:37:50 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[17-May-2016 20:39:23 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/marca_categoria.php on line 132
+[17-May-2016 20:39:26 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/marca_categoria.php on line 132
+[17-May-2016 20:39:34 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/marca_categoria.php on line 132
+[17-May-2016 20:39:37 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/marca_categoria.php on line 132
+[17-May-2016 20:59:15 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/tipo_categoria/administrar_tipo_categoria.php on line 29
+[17-May-2016 20:59:16 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/imacomremate/public_html/application/views/marca_categoria/administrar_marca_categoria.php on line 29
+[23-May-2016 21:34:42 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[23-May-2016 21:34:42 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[24-May-2016 22:46:25 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/marca_categoria.php on line 132
+[24-May-2016 22:46:25 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/marca_categoria.php on line 132
+[24-May-2016 22:48:47 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/marca_categoria.php on line 132
+[24-May-2016 22:48:47 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/marca_categoria.php on line 132
+[24-May-2016 22:49:03 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/marca_categoria.php on line 132
+[24-May-2016 22:49:03 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/marca_categoria.php on line 132
+[24-May-2016 22:49:33 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/marca_categoria.php on line 132
+[24-May-2016 22:49:34 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/marca_categoria.php on line 132
+[25-May-2016 21:23:15 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[25-May-2016 21:23:16 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[25-May-2016 21:31:45 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[25-May-2016 21:31:45 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[25-May-2016 21:33:00 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[25-May-2016 21:33:00 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[25-May-2016 21:36:23 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[25-May-2016 21:36:23 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/tipo_categoria.php on line 132
+[25-May-2016 21:42:24 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/marca_categoria.php on line 132
+[25-May-2016 21:42:25 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/marca_categoria.php on line 132
+[25-May-2016 21:42:44 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/marca_categoria.php on line 132
+[25-May-2016 21:42:44 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/marca_categoria.php on line 132
+[26-May-2016 21:36:48 UTC] PHP Parse error:  syntax error, unexpected '$datos_remate' (T_VARIABLE) in /home/imacomremate/public_html/application/controllers/garantia.php on line 113
+[26-May-2016 22:53:45 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/application/controllers/garantia.php on line 229
+[27-May-2016 17:48:32 UTC] PHP Parse error:  syntax error, unexpected '$datos_subasta' (T_VARIABLE) in /home/imacomremate/public_html/application/controllers/lote.php on line 533
+[27-May-2016 14:49:52 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined method Garantia_model::obtener() in /home/imacomremate/public_html/application/controllers/lote.php on line 531
+[27-May-2016 14:58:28 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function from() on a non-object in /home/imacomremate/public_html/application/controllers/lote.php on line 549
+[28-May-2016 14:37:01 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined method Lote_model::obtener_datos_rematador() in /home/imacomremate/public_html/application/controllers/lote.php on line 535
+[28-May-2016 20:06:34 UTC] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/imacomremate/public_html/application/controllers/remate.php on line 364
+[31-May-2016 13:43:16 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/imacomremate/public_html/application/views/lote/ver.php on line 457
+[31-May-2016 16:45:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/imacomremate/public_html/div1.php on line 76
+[31-May-2016 13:45:30 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '}' in /home/imacomremate/public_html/application/views/lote/ver.php on line 381
+[31-May-2016 13:45:32 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '}' in /home/imacomremate/public_html/application/views/lote/ver.php on line 381
+[31-May-2016 16:48:15 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 16:50:26 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 16:56:36 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:00:19 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:00:23 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:00:29 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:00:35 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:00:40 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:00:46 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:00:51 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:00:57 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:01:02 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:01:07 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:01:13 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:01:19 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:01:25 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:01:29 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:01:35 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:01:40 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:01:46 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:01:48 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:01:51 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:01:58 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:02:03 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:02:08 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:02:14 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:02:19 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:02:24 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:02:29 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:02:34 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:02:40 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:02:47 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:03:40 UTC] PHP Parse error:  syntax error, unexpected '', '' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/imacomremate/public_html/div1.php on line 13
+[31-May-2016 17:03:46 UTC] PHP Parse error:  syntax error, unexpected '', '' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/imacomremate/public_html/div1.php on line 13
+[31-May-2016 17:03:51 UTC] PHP Parse error:  syntax error, unexpected '', '' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/imacomremate/public_html/div1.php on line 13
+[31-May-2016 17:03:57 UTC] PHP Parse error:  syntax error, unexpected '', '' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/imacomremate/public_html/div1.php on line 13
+[31-May-2016 17:04:02 UTC] PHP Parse error:  syntax error, unexpected '', '' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/imacomremate/public_html/div1.php on line 13
+[31-May-2016 17:04:08 UTC] PHP Parse error:  syntax error, unexpected '', '' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/imacomremate/public_html/div1.php on line 13
+[31-May-2016 17:04:13 UTC] PHP Parse error:  syntax error, unexpected '', '' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/imacomremate/public_html/div1.php on line 13
+[31-May-2016 17:04:19 UTC] PHP Parse error:  syntax error, unexpected '', '' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/imacomremate/public_html/div1.php on line 13
+[31-May-2016 17:05:55 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:06:05 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:06:11 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:06:16 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:06:22 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:06:27 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:06:33 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:13:14 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:13:22 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:13:27 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:13:33 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:13:38 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:13:45 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:13:51 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:13:57 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:14:02 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:14:08 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:14:13 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:14:19 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:14:26 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:14:31 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:14:37 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:14:42 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:14:48 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:14:53 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:14:59 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:15:04 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:15:10 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:15:15 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:15:21 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:15:26 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:15:33 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:15:38 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:15:43 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:15:49 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:15:54 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 3
+[31-May-2016 17:16:01 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:16:07 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:16:12 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:16:19 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:16:24 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:16:30 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:16:35 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:16:40 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:16:47 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:16:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:16:59 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:17:04 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:17:09 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:17:15 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:17:21 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:17:29 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:17:34 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:17:40 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:17:45 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:17:50 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:17:56 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:18:01 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:18:07 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:18:13 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:18:19 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:18:24 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:18:29 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:18:35 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:18:40 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:18:46 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:18:51 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:18:57 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:19:03 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:19:08 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:19:13 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:19:19 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:19:24 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:19:30 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:19:35 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:19:42 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:19:47 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/imacomremate/public_html/div1.php on line 74
+[31-May-2016 17:19:52 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 5
+[31-May-2016 17:19:56 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 5
+[31-May-2016 17:20:03 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 5
+[31-May-2016 17:20:08 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 5
+[31-May-2016 17:20:14 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 5
+[31-May-2016 17:20:19 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 5
+[31-May-2016 17:20:25 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 5
+[31-May-2016 17:20:30 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 5
+[31-May-2016 17:20:36 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 5
+[31-May-2016 17:20:41 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 5
+[31-May-2016 17:20:46 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 5
+[31-May-2016 17:20:52 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 5
+[31-May-2016 17:20:58 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 5
+[31-May-2016 17:21:05 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:21:10 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:21:16 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:21:21 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:21:27 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:21:32 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:21:38 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:21:43 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:21:49 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:21:54 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:22:00 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:22:05 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:22:11 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:22:16 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:22:22 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:22:27 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:22:33 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:22:38 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:22:43 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:22:49 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:22:54 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:23:00 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:23:05 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:23:11 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:23:16 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:23:22 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:23:27 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 1
+[31-May-2016 17:23:34 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:23:40 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:23:45 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:23:51 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:23:56 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:24:02 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:24:08 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:24:13 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:24:18 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:24:24 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:24:29 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:24:35 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:24:40 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:24:45 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:24:51 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:24:56 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:25:02 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:25:08 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:25:13 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:25:18 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:25:24 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:25:29 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:25:35 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:25:40 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:25:46 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:25:51 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:25:56 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:26:02 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:26:07 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:26:13 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:26:18 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:26:24 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:26:29 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:26:35 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:26:40 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:26:46 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:26:52 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:26:57 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:27:03 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:27:09 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:27:15 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:27:20 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:27:26 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:27:31 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:27:37 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:27:43 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:27:49 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:27:51 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/imacomremate/public_html/application/controllers/lote.php on line 659
+[31-May-2016 17:27:55 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:28:01 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:28:07 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:28:13 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:28:19 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:28:26 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:28:32 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:28:38 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:28:44 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:28:50 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:28:56 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:29:03 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:29:09 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 17:29:16 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/imacomremate/public_html/div1.php on line 2
+[31-May-2016 20:32:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/imacomremate/public_html/application/controllers/lote.php on line 588
+[31-May-2016 21:00:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/imacomremate/public_html/application/controllers/lote.php on line 339
+[31-May-2016 18:03:04 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:03:12 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:03:18 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:03:23 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:03:30 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:03:39 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:03:43 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:03:47 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:03:54 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:04:01 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:04:07 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:04:20 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:04:25 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:04:37 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:04:37 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:04:43 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:04:51 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:04:58 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:05:04 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:05:10 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:05:20 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:05:25 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:05:37 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:05:43 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:05:49 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:05:56 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:06:03 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:06:08 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:06:14 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:06:19 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:06:27 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:06:33 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:06:43 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:06:49 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:06:58 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:07:04 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:07:05 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:07:20 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:07:29 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:07:36 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:07:43 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:07:49 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:07:56 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:08:02 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:08:10 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:08:17 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:08:18 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:08:27 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:08:33 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:08:40 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:08:46 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:08:53 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:08:59 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:09:12 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:09:20 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:09:26 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 21:09:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/imacomremate/public_html/application/controllers/lote.php on line 446
+[31-May-2016 18:09:40 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:09:51 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:09:58 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:10:08 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:10:15 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:10:22 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:10:29 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:10:36 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:10:36 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:10:42 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:10:55 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:11:02 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:11:07 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:11:15 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:11:22 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 18:11:34 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/imacomremate/public_html/application/views/lote/div1.php on line 10
+[31-May-2016 21:36:24 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/imacomremate/public_html/application/controllers/lote.php on line 592
+[31-May-2016 21:36:24 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/imacomremate/public_html/application/controllers/lote.php on line 592
+[31-May-2016 18:38:30 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected ''" name="lote_id" />' (T_ENCAPSED_AND_WHITESPACE) in /home/imacomremate/public_html/application/views/lote/div1.php on line 55
+[31-May-2016 21:39:12 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/imacomremate/public_html/application/controllers/lote.php on line 86
+[31-May-2016 21:39:13 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/imacomremate/public_html/application/controllers/lote.php on line 86
+[31-May-2016 21:39:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/imacomremate/public_html/application/controllers/lote.php on line 175
+[31-May-2016 21:39:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/imacomremate/public_html/application/controllers/lote.php on line 175
+[31-May-2016 21:39:20 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/imacomremate/public_html/application/controllers/lote.php on line 592
+[31-May-2016 21:41:02 UTC] PHP Parse error:  syntax error, unexpected ''Ocurrió un error a' (T_ENCAPSED_AND_WHITESPACE) in /home/imacomremate/public_html/application/controllers/lote.php on line 41
+[31-May-2016 21:41:07 UTC] PHP Parse error:  syntax error, unexpected ''lote' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/imacomremate/public_html/application/controllers/lote.php on line 532
+[31-May-2016 18:52:24 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected ''" name="lote_id" />' (T_ENCAPSED_AND_WHITESPACE) in /home/imacomremate/public_html/application/views/lote/div1.php on line 55
+[31-May-2016 22:30:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/imacomremate/public_html/application/controllers/lote.php on line 565
+[31-May-2016 22:31:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/imacomremate/public_html/application/controllers/lote.php on line 175
+[31-May-2016 22:33:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/imacomremate/public_html/application/controllers/lote.php on line 659
+[31-May-2016 22:34:06 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/imacomremate/public_html/application/controllers/lote.php on line 591
+[01-Jun-2016 17:54:16 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/imacomremate/public_html/application/views/remate/ver.php on line 141
+[01-Jun-2016 19:24:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/imacomremate/public_html/application/views/remate/ver.php on line 235
+[01-Jun-2016 19:54:49 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/imacomremate/public_html/application/views/lote/ver.php on line 91
+[01-Jun-2016 19:54:49 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/imacomremate/public_html/application/views/lote/ver.php on line 91
+[02-Jun-2016 13:48:24 UTC] PHP Fatal error:  Class 'Lote_model' not found in /home/imacomremate/public_html/system/core/Loader.php on line 303
+[07-Jun-2016 13:31:36 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/marca_categoria.php on line 132
+[07-Jun-2016 13:31:37 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/marca_categoria.php on line 132
+[07-Jun-2016 13:49:22 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/marca_categoria.php on line 132
+[07-Jun-2016 13:49:24 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/marca_categoria.php on line 132
+[07-Jun-2016 14:29:58 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/marca_categoria.php on line 132
+[07-Jun-2016 14:29:58 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/imacomremate/public_html/application/controllers/marca_categoria.php on line 132

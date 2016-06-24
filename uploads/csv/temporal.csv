@@ -1,0 +1,10 @@
+tipo_id,marca_id,lote_modelo,lote_nombre,lote_descripcion,lote_estado,lote_puja_minima,lote_incremento,lote_documento_adjunto,lote_link_video,foto_url
+9,10,7,Lote 1,bla,activo,1000,1000,certificado001.JPG,https://www.youtube.com/embed/60QS57C8zBw,foto_ejemplo.jpg
+9,10,7,Lote 2,bla,activo,2000,2000,certificado001.JPG,https://www.youtube.com/embed/60QS57C8zBw,foto_ejemplo.jpg
+9,10,7,Lote 3,bla,activo,3000,3000,certificado001.JPG,https://www.youtube.com/embed/60QS57C8zBw,foto_ejemplo.jpg
+9,10,7,Lote 4,bla,activo,4000,4000,certificado001.JPG,https://www.youtube.com/embed/60QS57C8zBw,foto_ejemplo.jpg
+9,10,7,Lote 5,bla,activo,5000,5000,certificado001.JPG,https://www.youtube.com/embed/60QS57C8zBw,foto_ejemplo.jpg
+9,10,7,Lote 6,bla,activo,6000,6000,certificado001.JPG,https://www.youtube.com/embed/60QS57C8zBw,foto_ejemplo.jpg
+9,10,7,Lote 7,bla,activo,7000,7000,certificado001.JPG,https://www.youtube.com/embed/60QS57C8zBw,foto_ejemplo.jpg
+9,10,7,Lote 8,bla,activo,8000,8000,certificado001.JPG,https://www.youtube.com/embed/60QS57C8zBw,foto_ejemplo.jpg
+9,10,7,Lote 9,bla,activo,9000,9000,certificado001.JPG,https://www.youtube.com/embed/60QS57C8zBw,foto_ejemplo.jpg
